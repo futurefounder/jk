@@ -1,0 +1,249 @@
+baseURL: "https://jessekhala.com/"
+title: Jesse Khala
+paginate: 5
+theme: hugo-PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+# googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+languages:
+    en:
+        languageName: "en"
+        weight: 1
+        menu:
+            main:
+                - name: This site
+                  url: about/
+                  weight: 1
+                - name: Projects
+                  url: projects/
+                  weight: 2
+                - name: Availability
+                  url: availability
+                  weight: 3                                    
+                - name: Archive
+                  url: archives
+                  weight: 4
+                - name: Search
+                  url: search/
+                  weight: 5                
+#                - name: Tags
+#                  url: tags/
+#                  weight: 10
+                
+
+
+    # de:
+    #    languageName: "de"
+    #    weight: 1
+    #    title: Jesse Khala
+    #    homeInfoParams:
+    #      Title: "👋🏾 Hi, ich bin Jesse"
+    #      Content: >
+    #        <br />          
+    #        🚀 Ich bin ein **Marketing-Typ, der sich Selbständig gemacht hat** mit der Base in Berlin
+    #        <br />
+    #         <br />            
+    #        - 💫 Ich **helfe Unternehmen auf Distanz das Wir-Gefühl zu stärken**, indem ich frische Ideen, Trendthemen und umsetzbare Inspiration auf der Webseite <br> [💡 <u>**remotenactive.com**](https://www.remotenactive.com)</u> anbiete
+    #        <br />
+    #         <br />
+    #        - ✍🏽 Hier auf dieser Seite schreibe ich meine Gedanken zu den Themen: Startups, Produkt Ideen, Entwicklung, Marketing, Launching. <br> Normalerweise habe ich einen engen Zeitplan, also können sich hier und da Tippfehler einschleichen
+    #        <br />
+    #         <br />
+    #        - Echtzeit Updates gibt es auf        
+
+      #  profileMode:
+       #     enabled: false
+            #title: abc
+            # imageUrl: "#"
+            # imageTitle: my image
+            # imageWidth: 120
+            # imageHeight: 120
+            #subtitle: "abc"
+            #buttons:
+ #               - name: Blog
+ #                 url: posts
+ #               - name: Tags
+ #                 url: tags
+ 
+ #       menu:
+ #           main:
+ #               - name: Diese Seite
+ #                 url: uber/
+ #                 weight: 1 
+ #               - name: Projekte
+ #                 url: projekte/
+ #                 weight: 2 
+ #               - name: Archive
+ #                 url: archiv
+ #                 weight: 3
+ #               - name: Suche
+ #                 url: search/
+ #                 weight: 4                  
+ #               - name: Categories
+ #                 url: categories
+ #                 weight: 10
+ #               - name: Series
+ #                 url: series
+ #                 weight: 10
+#                - name: NullLink
+#                  url: "#"
+#                - name: NullLink2
+#                  url: "#"
+#                - name: NullLink3
+#                  url: "#"
+
+#    fa:
+#        languagedirection: rtl
+#        weight: 3
+#        title: PaperMod RTL
+#        homeInfoParams:
+#            Title: "Hi there \U0001F44B"
+#            Content: Welcome to RTL layout
+#        menu:
+#            main:
+#                - name: Tags
+#                  url: tags
+#                  weight: 10
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    #author: Theme PaperMod
+    # author: ["Me", "You"] # multiple authors
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowToc: true
+    # comments: false
+    images: ["papermod-cover.png"]
+
+    profileMode:
+        enabled: false
+        title: PaperMod
+        imageUrl: "#"
+        imageTitle: my image
+        # imageWidth: 120
+        # imageHeight: 120
+        #buttons:
+       #     - name: Archives
+        #     url: archives
+         #   - name: Tags
+          #    url: tags
+
+    homeInfoParams:
+        Title: "👋🏾 Hi, I'm Jesse"
+        Content: >            
+            <br />
+            👨🏾‍💻 I'm a **Self-Funded Founder I Freelance Marketing Consultant learning Front End Development** based in Berlin, Germany
+            <br />
+             <br />
+             - ⚡️ I **help Agency Managers and their teams understand the impact of their campaign** by creating **media - strategy decks, - plans, - forecasts & - performance frameworks**
+             <br />
+             <br />
+            - 💡 To fuel **my passion for tech & people** I am learning to code and started my own public Micro Startup that **helps companies working remotely create a social connection** by providing consultation, fresh ideas, trending topics & inspiration via [<u>**remotenactive.com**](https://www.remotenactive.com)</u>
+             <br />
+             <br />
+            - ✍🏽 On this website I write about my thoughts on: Startups, Product Ideas, Development, Marketing, Launching and related things. I'm usually tight scheduled, so typos might sneak in here and there
+            <br />
+             <br />            
+            - Get realtime updates on
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/futurefounder21"
+        - name: linkedin
+          url: "https://linkedin.com/in/hi-jesse/"          
+ #        url: "index.xml"
+
+    # label:
+    #     text: "Home"
+    #     icon: icon.png
+    #     iconHeight: 35
+
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+
+    assets:
+        favicon: "https://i.ibb.co/qRfGHnn/favicon-96x96.png"
+        favicon16x16: "https://i.ibb.co/yggS38R/favicon-16x16.png"
+        favicon32x32: "https://i.ibb.co/P9n9GX4/favicon-32x32.png"
+    #     apple_touch_icon: "<link / abs url>"
+    #     safari_pinned_tab: "<link / abs url>"
+
+    # cover:
+    #     hidden: true # hide everywhere but not in structured data
+    #     hiddenInList: true # hide on list pages and home
+    #     hiddenInSingle: true # hide on single page
+
+    # fuseOpts:
+    #     isCaseSensitive: false
+    #     shouldSort: true
+    #     location: 0
+    #     distance: 1000
+    #     threshold: 0.4
+    #     minMatchCharLength: 0
+    #     keys: ["title", "permalink", "summary", "content"]
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+markup:
+     goldmark:
+        renderer:
+            unsafe: true
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         # noClasses: false
+#         style: monokai
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
