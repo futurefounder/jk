@@ -12,7 +12,7 @@ ShowPostNavLinks: false
 Here are some free-time & business projects I've been working on lately:
 
 &nbsp;
-### 🎯 RemoteNActive - Open List
+### 🎯 remote ' active - Dynamic List
 &nbsp;
 
 **What**
@@ -41,7 +41,7 @@ Team Leader + HR / Peoples Managers, Innovators/Early Adopters
 
 
 &nbsp;
-### 🚀 RemoteNActive - Service
+### 🚀 remote 'n active - Landing Page Service
 &nbsp;
 
 **What**
