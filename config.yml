@@ -27,15 +27,15 @@ languages:
                 - name: Projects
                   url: projects/
                   weight: 2
-                - name: Availability
-                  url: availability
-                  weight: 3                                    
+#                - name: Availability
+#                  url: availability
+#                  weight: 3                                    
                 - name: Archive
                   url: archives
-                  weight: 4
+                  weight: 3
                 - name: Search
                   url: search/
-                  weight: 5                
+                  weight: 4                
 #                - name: Tags
 #                  url: tags/
 #                  weight: 10
@@ -130,7 +130,7 @@ params:
     defaultTheme: auto
     # disableThemeToggle: true
     ShowShareButtons: false
-    ShowReadingTime: true
+    ShowReadingTime: false
     # disableSpecial1stPost: true
     displayFullLangName: true
     ShowPostNavLinks: true
@@ -165,7 +165,7 @@ params:
             - 💡 To fuel **my passion for tech & people** I am learning to code and started my self-funded Micro Startup that **helps companies working remotely create a social connection** by providing consultation, fresh ideas, trending topics & inspiration via [<u>**remotenactive.com**](https://www.remotenactive.com)</u>
              <br />
              <br />
-            - ✍🏽 On this website I write about my thoughts on: Startups, Development, Marketing, Launching and related things. I'm usually tight scheduled, so typos might sneak in here and there
+            - ✍🏽 On this website I am documenting my journey and writing about: Startups, Development, Marketing, Launching and related things
             <br />
              <br />            
             - Get realtime updates on
@@ -173,8 +173,8 @@ params:
     socialIcons:
         - name: twitter
           url: "https://twitter.com/futurefounder21"
-        - name: linkedin
-          url: "https://linkedin.com/in/hi-jesse/"          
+ #       - name: linkedin
+ #         url: "https://linkedin.com/in/hi-jesse/"          
  #        url: "index.xml"
 
     # label:
@@ -232,7 +232,7 @@ privacy:
     twitter:
         disabled: false
         enableDNT: true
-        simple: true
+        simple: false
 
     instagram:
         disabled: false

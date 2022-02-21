@@ -12,6 +12,34 @@ ShowPostNavLinks: false
 Here are some free-time & business projects I've been working on lately:
 
 &nbsp;
+### 🕹️ Rock Paper Scissors - Game
+&nbsp;
+
+**What**
+
+A simple rock papers scissors game of 5 rounds with a dynamic background and the option to play music.
+
+**How**
+
+HTML, CSS, JavaScript
+
+**When**
+
+01/2022
+
+**Why**
+
+Part of "The Odin Project" Fudamentals Course
+
+**Target audience**
+
+Everyone :)
+
+**Status**
+
+✔️ Live - [Play it here](https://futurefounder.github.io/rps-game/)
+
+&nbsp;
 ### 🎯 remote n active - Dynamic List
 &nbsp;
 

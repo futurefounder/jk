@@ -11,9 +11,7 @@ ShowPostNavLinks: false
 
 Hi there friend from the WWW ✌🏾
 
-After working for a decade in the advertising industry, I've made the decision to start my own entrepreneurial adventure.
-
-I value freedom & flexibility which is why I am currently working on my own business and doing freelance work to sustain myself.
+After working for a decade in the advertising industry, I've made the decision to start my own entrepreneurial adventure by starting my own business and learning Web Development.
 
 Since my first experience with remote work in 2015 I have become a true advocate.
 
@@ -21,7 +19,7 @@ I value the benefits like creating an individual work/life schedule or not havin
 
 I want to change this and am therefore working on [remotenactive.com](https://www.remotenactive.com).
 
-On this page I publish my thoughts and experiences on the subject of being self-employed in the digital industry.
+On this page I publish my thoughts and experiences on being self-employed and learning Web Development.
 
 All information is my personal opinion. 
 
@@ -30,7 +28,7 @@ I am not affiliated with any brand or company (other than my own) and do not hav
 Some facts about me:
 
 **Work**
-- Currently Freelance Marketing Consuting on Paid Media for Advertising Agencies & Startups
+- Currently Freelance Marketing Consulting on Paid Media for Advertising Agencies & Startups
 - Ex Communications Manager @ [German Savings Banks Association, DSGV](https://www.dsgv.de/en/facts/about-us.html)
 - Ex Media Supervisor @ a [GroupM Agency](https://www.groupm.com/)
 - Ex Marketing Consultant @ [Breakletics](http://breakletics.com/)
