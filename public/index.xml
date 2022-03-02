@@ -9,7 +9,32 @@
       <link>https://jessekhala.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 11 Feb 2022 10:30:07 -0600</lastBuildDate><atom:link href="https://jessekhala.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Mar 2022 06:19:03 -0600</lastBuildDate><atom:link href="https://jessekhala.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>👨🏾‍💻 Learning Full Stack Web Development (for free) - My Second Month </title>
+      <link>https://jessekhala.com/posts/full-stack-webdevelopment-month-2/</link>
+      <pubDate>Wed, 02 Mar 2022 06:19:03 -0600</pubDate>
+      
+      <guid>https://jessekhala.com/posts/full-stack-webdevelopment-month-2/</guid>
+      <description>&amp;ldquo;You can learn anything&amp;rdquo; - Khan Academy
+ What happened So I finished The Odin Projects Fundamentals and had fun creating a Rock, Paper, Scissors Game.
+I was really surprised at level of depth of the fundamentals course.
+Not only did I repeat HTML &amp;amp; CSS Basics, but I also dived into Git and already started with JavaScript.
+What I really liked is, that the program puts a heavy emphasis on the psychological aspect of learning.</description>
+    </item>
+    
+    <item>
+      <title>🧙🏾‍♂️ Rumi Quote on Change</title>
+      <link>https://jessekhala.com/posts/rumi-quote-on-change/</link>
+      <pubDate>Thu, 24 Feb 2022 11:21:38 -0600</pubDate>
+      
+      <guid>https://jessekhala.com/posts/rumi-quote-on-change/</guid>
+      <description> “Yesterday I was clever so I wanted to change the world.
+Today I am wise so I am changing myself.”
+- Rumi
+ </description>
+    </item>
+    
     <item>
       <title>🎨 JavaScript Frameworks? Read this.</title>
       <link>https://jessekhala.com/posts/what-are-javascript-frameworks/</link>

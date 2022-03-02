@@ -2,40 +2,41 @@
 title: "Webflow Templates Free"
 date: 2022-02-18T12:17:02-06:00
 draft: true
+showTOC: false
 ---
 
-https://webflow.com/free-website-templates
+<!-- https://webflow.com/free-website-templates
 
-https://www.usebolt.io/free-webflow-templates
+https://www.usebolt.io/free-webflow-templates 
+
+
+
+-->
+
+# What is Webflow
+
+Webflow is an exciting, relatively new tool that’s perfect for those who have an eye for design — be they designers or non-designers. 
+
+If you’re looking for a way to build your own website, without coding but with a beautiful visual interface and a wide range of professional design templates, give webflow a try.
+
+The platform is great for any designer who has struggled with HTML, CSS, or JavaScript. 
+
+The software streamlines website construction, helping designers jump right into the creative process. 
+
+Webflow also offers its own visual components that can create websites without code, although it does tie into the user’s personal library of installed components.
+
+# Is Webflow actually good
+
+Simplicity and ease of use are the main strengths of Websites made with Webflow. Add a great mobile functionality, an in-built CSS Editor, and you get a CMS that is perfect for beginners: easy to use and that gives you full control over your website.
+
+# List with XX Webflow Templates for free
 
 {{< rawhtml >}}
-<script>
-document.querySelector('.table-sortable').tsortable()
-</script>
-<table class="table-sortable">
-  <thead>
-    <tr>
-      <th data-sort="string">String</th>
-      <th data-sort="int">Int</th>
-      <th data-sort="float">Float</th>
-      <th data-sort="date">Date</th>
-    </tr>
-  </thead>
-  <tbody>
-     <tr>
-      <td>January</td>
-      <td>100</td>
-    </tr>
-    <tr>
-      <td>February</td>
-      <td>80</td>
-    </tr>
-  </tbody>
-</table>
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrVz61D5mMpL50sh?backgroundColor=blue&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 {{< /rawhtml >}}
 
-| **Name** | **Image** | **Info** | **Link** | **Author** |
-|----------|-----------|----------|-------------------|------------|
-| Fitnesso template     | ![Fitness](https://assets.website-files.com/5f3acab455c029b8811bc306/5f4407392a24ce29960c2b05_Fitnesso_thumb.jpg)  | E-commerce solution for any fitness coach that wants to sell online.  |  [**View-Template**](https://webflow.com/templates/html/fitnesso-fitness-website-template)| [Uros Mikic](https://webflow.com/templates/designers/uros-mikic)       |
-|          |           |          |                   |            |
-|          |           |          |                   |            |
+# Call to action
+
+# Further resources
