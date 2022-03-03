@@ -2,9 +2,10 @@
 title: "👨🏾‍💻 Learning Full Stack Web Development (for free) - My Second Month "
 date: 2022-03-02T06:19:03-06:00
 draft: false
+showTOC: true
 ---
 
-> "You can learn anything" - Khan Academy
+> "*You can learn anything*" - Khan Academy
 
 # What happened
 

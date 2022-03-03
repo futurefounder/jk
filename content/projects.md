@@ -157,7 +157,7 @@ Vegan enthusiasts / newbies and anyone who wants to deal with plant-based nutrit
 
 **Status**
 
-🧊 On ice - [Link to site](https://www.VeganBookBase.com)
+🧊 On ice - [Link to to GitHub Repository](https://github.com/futurefounder/veganbookbase)
 
 &nbsp;
 ### ✍🏽 iwrite2day
