@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>🎨 JavaScript Frameworks? Read this. | Jesse Khala</title>
+<meta name="keywords" content="" />
+<meta name="description" content="Framework noun
+/ˈfreɪm.wɝːk/
+a supporting structure around which something can be built
+&ndash; Definition by Cambridge Dictionary
+ Ever since the advent of JavaScript in the mid-90’s, developers have been struggling to find a solution for creating reusable code that can be easily be implemented in different projects.
+via GIPHY
+Originally, frameworks were meant to address this problem by providing developers with more control over how their applications would run.">
+<meta name="author" content="">
+<link rel="canonical" href="https://jessekhala.com/posts/what-are-javascript-frameworks/" />
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.04512c372388e08b5118f5b117b2d3efef4ddae52017e16085c8d8d4e361c43d.css" integrity="sha256-BFEsNyOI4ItRGPWxF7LT7&#43;9N2uUgF&#43;FghcjY1ONhxD0=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js" integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5&#43;kdJvBz5iKbt6B5PJI="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://i.ibb.co/qRfGHnn/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://i.ibb.co/yggS38R/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://i.ibb.co/P9n9GX4/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://jessekhala.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://jessekhala.com/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<meta name="generator" content="Hugo 0.92.0" />
+<script async defer data-domain="jessekhala.com" src="https://plausible.io/js/plausible.js"></script><meta property="og:title" content="🎨 JavaScript Frameworks? Read this." />
+<meta property="og:description" content="Framework noun
+/ˈfreɪm.wɝːk/
+a supporting structure around which something can be built
+&ndash; Definition by Cambridge Dictionary
+ Ever since the advent of JavaScript in the mid-90’s, developers have been struggling to find a solution for creating reusable code that can be easily be implemented in different projects.
+via GIPHY
+Originally, frameworks were meant to address this problem by providing developers with more control over how their applications would run." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://jessekhala.com/posts/what-are-javascript-frameworks/" /><meta property="og:image" content="https://jessekhala.com/papermod-cover.png"/><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-02-11T10:30:07-06:00" />
+<meta property="article:modified_time" content="2022-02-11T10:30:07-06:00" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://jessekhala.com/papermod-cover.png"/>
+
+<meta name="twitter:title" content="🎨 JavaScript Frameworks? Read this."/>
+<meta name="twitter:description" content="Framework noun
+/ˈfreɪm.wɝːk/
+a supporting structure around which something can be built
+&ndash; Definition by Cambridge Dictionary
+ Ever since the advent of JavaScript in the mid-90’s, developers have been struggling to find a solution for creating reusable code that can be easily be implemented in different projects.
+via GIPHY
+Originally, frameworks were meant to address this problem by providing developers with more control over how their applications would run."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://jessekhala.com/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "🎨 JavaScript Frameworks? Read this.",
+      "item": "https://jessekhala.com/posts/what-are-javascript-frameworks/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "🎨 JavaScript Frameworks? Read this.",
+  "name": "🎨 JavaScript Frameworks? Read this.",
+  "description": "Framework noun\n/ˈfreɪm.wɝːk/\na supporting structure around which something can be built\n\u0026ndash; Definition by Cambridge Dictionary\n Ever since the advent of JavaScript in the mid-90’s, developers have been struggling to find a solution for creating reusable code that can be easily be implemented in different projects.\nvia GIPHY\nOriginally, frameworks were meant to address this problem by providing developers with more control over how their applications would run.",
+  "keywords": [
+    
+  ],
+  "articleBody": " Framework noun\n/ˈfreɪm.wɝːk/\na supporting structure around which something can be built\n– Definition by Cambridge Dictionary\n Ever since the advent of JavaScript in the mid-90’s, developers have been struggling to find a solution for creating reusable code that can be easily be implemented in different projects.\nvia GIPHY\nOriginally, frameworks were meant to address this problem by providing developers with more control over how their applications would run.\nThis was achieved in a number of ways including putting all code that is meant for re-use into a self-contained entity known as framework.\nThis idea of re-usable frameworks ultimately turned into libraries.\nDepending on who you ask, the line between libraries and frameworks may seem blurred, but there are some key differences that need to be addressed.\nWe will dive into this aspect in a bit.\nLet’s start with one important question.\nWhat are JavaScript Frameworks used for? If you don’t live under a rock, you might have noticed that JavaScript frameworks are extremely popular nowadays.\nSource: Github - Front End Frameworks Popularity\nThere is hardly an aspiring web developer who hasn’t heard about some of the most popular JavaScript Frameworks like React and Angular.\nSo you are rightfully thinking what’s all the fuzz about?\nLet’s start at the beginning.\nOne of the most misunderstood areas of Web Development is JavaScript.\nWhen it was first introduced in 1995, it was considered as more of a toy than an essential development tool.\nBut that changed with the emergence of JavaScript frameworks and libraries.\nThese days, many prominent website uses JavaScript in one form or another.\nBefore hopping onto one of the frameworks you might want to answer the next question for yourself first.\nDo I need a JavaScript Framework? No.\nYes.\nMaybe.\nWait a sec.\n🤨\nLet me explain.\nJavaScript Frameworks are a good way of speeding up your development process and creating efficient code.\nThis leads to a reduction of development, debugging and testing time.\nIn theory you do not need any Framework to develop.\nA lot can be achieved by plain Vanilla JavaScript.\nCheck out this Weather App created in vanilla JavaScript\nSo when it comes to creating your own projects you can choose how you want to handle things.\nLooking over to the professional world of coding you will notice that nearly all Web Development job listings require some kind of Framework.\nIf your goal is to land a job you will not be able to steer around learning a popular JavaScript Framework.\nWhy are JavaScript Frameworks useful? Well, as you know time = money.\nSo, more time = more money.\nThis means fast time to lambo.\nvia GIPHY\nAs mentioned, Frameworks speed up the whole chain of development and thereby save you a lot of time.\nUsing the right JavaScript framework can make it easier to develop more interactive, dynamic web applications.\nThere are plenty of JavaScript frameworks to choose from, each with different features.\nIn addition JavaScript Frameworks can be learned rather quickly.\nSince a JavaScript Framework is just a library of code that helps you work with existing web development standards, such as HTML5 and CSS3, it should not conflict with the basic coding practices you already know.\nThis means you can use a framework without having to learn complicated new processes or languages.\nWhat is the difference between Libraries and Frameworks? Here’s a quick and easy to understand explanation\n A library performs specific, well-defined operations.\nA framework is a skeleton where the application defines the “meat” of the operation by filling out the skeleton. The skeleton still has code to link up the parts but the most important work is done by the application.\nSource: Stackoverflow\n That’s enough for now and to understand the next aspect.\nWhat are examples of JavaScript Frameworks? Popular Front-End Frameworks are\n Angular  Angular is a JavaScript framework that makes it easy to build web applications.\nIts goal is to augment browser-based applications with model–view–controller (MVC) capability, in an effort to make both development and testing easier.\nAngular can be used in combination with other frameworks like React, Vue, Ember, or even jQuery.\n React  React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces.\nIt is maintained by Facebook and a community of individual developers and companies.\nReact can be used as a base in the development of single-page or mobile applications.\nComplex React applications usually require the use of additional libraries for state management, routing, and interaction with an API.\n Vue.js  Vue.js is one of the latest players in the front-end frameworks scene.\nVue.js is a framework for building user interfaces. It’s very simple, flexible, and easy-to-use, similar to jQuery and Bootstrap.\nNow that you have learned about some JavaScript Frameworks you might think:\nHow many JavaScript Frameworks are there? According to Wikipedia about 83 whereby some are not maintained any more.\nFinal thoughts The goal of this article was to give a brief overview of what JavaScript frameworks are and when you can use them.\nI also wanted to clear up some vocabulary terms that get confused between frameworks and libraries.\nHopefully, after reading this article you’ll have a better understanding of what JavaScript Frameworks are, why you might use one, and how to choose the right framework for your particular use case.\nBefore I jump off I would like to know one thing.\nHave you ever worked with a JavaScript Framework?\nJust tweet me  futurefounder21.\nFurther resources  Honeypot - Youtube Documentary on Vue.js Hubspot - The 5 Best JavaScript Frameworks of 2022 Geeks for Geeks - 10 most popular JavaScript Frameworks  ",
+  "wordCount" : "929",
+  "inLanguage": "en",
+  "datePublished": "2022-02-11T10:30:07-06:00",
+  "dateModified": "2022-02-11T10:30:07-06:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://jessekhala.com/posts/what-are-javascript-frameworks/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Jesse Khala",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://i.ibb.co/qRfGHnn/favicon-96x96.png"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+<noscript>
+    <style type="text/css">
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: #1d1e20;
+                --entry: #2e2e33;
+                --primary: rgba(255, 255, 255, 0.84);
+                --secondary: rgba(255, 255, 255, 0.56);
+                --tertiary: rgba(255, 255, 255, 0.16);
+                --content: rgba(255, 255, 255, 0.74);
+                --hljs-bg: #2e2e33;
+                --code-bg: #37383e;
+                --border: #333;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://jessekhala.com/" accesskey="h" title="Jesse Khala (Alt + H)">Jesse Khala</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu" onscroll="menu_on_scroll()">
+            <li>
+                <a href="https://jessekhala.com/about/" title="This site">
+                    <span>This site</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://jessekhala.com/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://jessekhala.com/archives" title="Archive">
+                    <span>Archive</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://jessekhala.com/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="https://jessekhala.com/">Home</a>&nbsp;»&nbsp;<a href="https://jessekhala.com/posts/">Posts</a></div>
+    <h1 class="post-title">
+      🎨 JavaScript Frameworks? Read this.
+    </h1>
+    <div class="post-meta">February 11, 2022
+</div>
+  </header> <div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <div class="details">Table of Contents</div>
+        </summary>
+        <div class="inner"><ul>
+                <li>
+                    <a href="#what-are-javascript-frameworks-used-for" aria-label="What are JavaScript Frameworks used for?">What are JavaScript Frameworks used for?</a></li>
+                <li>
+                    <a href="#do-i-need-a-javascript-framework" aria-label="Do I need a JavaScript Framework?">Do I need a JavaScript Framework?</a></li>
+                <li>
+                    <a href="#why-are-javascript-frameworks-useful" aria-label="Why are JavaScript Frameworks useful?">Why are JavaScript Frameworks useful?</a></li>
+                <li>
+                    <a href="#what-is-the-difference-between-libraries-and-frameworks" aria-label="What is the difference between Libraries and Frameworks?">What is the difference between Libraries and Frameworks?</a></li>
+                <li>
+                    <a href="#what-are-examples-of-javascript-frameworks" aria-label="What are examples of JavaScript Frameworks?">What are examples of JavaScript Frameworks?</a></li>
+                <li>
+                    <a href="#how-many-javascript-frameworks-are-there" aria-label="How many JavaScript Frameworks are there?">How many JavaScript Frameworks are there?</a></li>
+                <li>
+                    <a href="#final-thoughts" aria-label="Final thoughts">Final thoughts</a><ul>
+                        
+                <li>
+                    <a href="#further-resources" aria-label="Further resources">Further resources</a>
+                </li>
+            </ul>
+            </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><blockquote>
+<p><strong>Framework</strong>
+<em>noun</em></p>
+<p>/ˈfreɪm.wɝːk/</p>
+<p><em>a supporting structure around which something can be built</em></p>
+<p><em>&ndash;  Definition by <a href="https://dictionary.cambridge.org/us/dictionary/english/framework">Cambridge Dictionary</a></em></p>
+</blockquote>
+<p>Ever since the advent of JavaScript in the mid-90’s, developers have been struggling to find a solution for creating reusable code that can be easily be implemented in different projects.</p>
+
+
+<iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
+
+<p>Originally, frameworks were meant to address this problem by providing developers with more control over how their applications would run.</p>
+<p>This was achieved in a number of ways including putting all code that is meant for re-use into a self-contained entity known as framework.</p>
+<p><img loading="lazy" src="https://i.imgflip.com/65q1hs.jpg" alt="Coder Meme"  />
+</p>
+<p>This idea of re-usable frameworks ultimately turned into libraries.</p>
+<p>Depending on who you ask, the line between libraries and frameworks may seem blurred, but there are some key differences that need to be addressed.</p>
+<p>We will dive into this aspect in a bit.</p>
+<p>Let&rsquo;s start with one important question.</p>
+<h1 id="what-are-javascript-frameworks-used-for">What are JavaScript Frameworks used for?<a hidden class="anchor" aria-hidden="true" href="#what-are-javascript-frameworks-used-for">#</a></h1>
+<p>If you don&rsquo;t live under a rock, you might have noticed that JavaScript frameworks are extremely popular nowadays.</p>
+<p><img loading="lazy" src="https://camo.githubusercontent.com/023f8b74e8bfe3c1b219925910413f91ad47f0096fa28e72927d799ad94c1ee3/68747470733a2f2f692e696d6775722e636f6d2f545861563579582e706e67" alt="Framework Trends"  />
+
+Source: <a href="https://gist.github.com/tkrotoff/b1caa4c3a185629299ec234d2314e190">Github - Front End Frameworks Popularity</a></p>
+<p>There is hardly an aspiring web developer who hasn&rsquo;t heard about some of the most popular JavaScript Frameworks like React and Angular.</p>
+<p>So you are rightfully thinking what&rsquo;s all the fuzz about?</p>
+<p>Let&rsquo;s start at the beginning.</p>
+<p>One of the most misunderstood areas of Web Development is JavaScript.</p>
+<p>When <a href="https://www.w3schools.com/js/js_history.asp">it was first introduced in 1995</a>, it was considered as more of a toy than an essential development tool.</p>
+<p>But that changed with the emergence of JavaScript frameworks and libraries.</p>
+<p>These days, many prominent website uses JavaScript in one form or another.</p>
+<p>Before hopping onto one of the frameworks you might want to answer the next question for yourself first.</p>
+<h1 id="do-i-need-a-javascript-framework">Do I need a JavaScript Framework?<a hidden class="anchor" aria-hidden="true" href="#do-i-need-a-javascript-framework">#</a></h1>
+<p>No.</p>
+<p>Yes.</p>
+<p>Maybe.</p>
+<p>Wait a sec.</p>
+<p>🤨</p>
+<p>Let me explain.</p>
+<p>JavaScript Frameworks are a good way of speeding up your development process and creating efficient code.</p>
+<p>This leads to a reduction of development, debugging and testing time.</p>
+<p>In theory you do not need any Framework to develop.</p>
+<p>A lot can be achieved by plain Vanilla JavaScript.</p>
+<p>Check out <a href="https://youtu.be/wPElVpR1rwA">this Weather App created in vanilla JavaScript</a></p>
+<p>So when it comes to creating your own projects you can choose how you want to handle things.</p>
+<p>Looking over to the professional world of coding you will notice that nearly all Web Development job listings require some kind of Framework.</p>
+<p>If your goal is to land a job you will not be able to steer around learning a popular JavaScript Framework.</p>
+<h1 id="why-are-javascript-frameworks-useful">Why are JavaScript Frameworks useful?<a hidden class="anchor" aria-hidden="true" href="#why-are-javascript-frameworks-useful">#</a></h1>
+<p>Well, as you know time = money.</p>
+<p>So, more time = more money.</p>
+<p>This means fast time to lambo.</p>
+
+
+<iframe src="https://giphy.com/embed/l46Cw3404vdkvNqAU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lildicky-lil-dicky-save-dat-money-that-l46Cw3404vdkvNqAU">via GIPHY</a></p>
+
+<p>As mentioned, Frameworks speed up the whole chain of development and thereby save you a lot of time.</p>
+<p>Using the right JavaScript framework can make it easier to develop more interactive, dynamic web applications.</p>
+<p>There are plenty of JavaScript frameworks to choose from, each with different features.</p>
+<p>In addition JavaScript Frameworks can be learned rather quickly.</p>
+<p>Since a JavaScript Framework is just a library of code that helps you work with existing web development standards, such as HTML5 and CSS3, it should not conflict with the basic coding practices you already know.</p>
+<p>This means you can use a framework without having to learn complicated new processes or languages.</p>
+<h1 id="what-is-the-difference-between-libraries-and-frameworks">What is the difference between Libraries and Frameworks?<a hidden class="anchor" aria-hidden="true" href="#what-is-the-difference-between-libraries-and-frameworks">#</a></h1>
+<p>Here&rsquo;s a quick and easy to understand explanation</p>
+<blockquote>
+<p><em>A <strong>library</strong> performs specific, well-defined operations.</em></p>
+<p><em>A <strong>framework</strong> is a skeleton where the application defines the &ldquo;meat&rdquo; of the operation by filling out the skeleton. The skeleton still has code to link up the parts but the most important work is done by the application.</em></p>
+<p><strong>Source</strong>: <a href="https://stackoverflow.com/questions/148747/what-is-the-difference-between-a-framework-and-a-library">Stackoverflow</a></p>
+</blockquote>
+<p>That&rsquo;s enough for now and to understand the next aspect.</p>
+<h1 id="what-are-examples-of-javascript-frameworks">What are examples of JavaScript Frameworks?<a hidden class="anchor" aria-hidden="true" href="#what-are-examples-of-javascript-frameworks">#</a></h1>
+<p>Popular Front-End Frameworks are</p>
+<ul>
+<li><a href="https://angular.io/">Angular</a></li>
+</ul>
+<p>Angular is a JavaScript framework that makes it easy to build web applications.</p>
+<p>Its goal is to augment browser-based applications with model–view–controller (MVC) capability, in an effort to make both development and testing easier.</p>
+<p>Angular can be used in combination with other frameworks like React, Vue, Ember, or even jQuery.</p>
+<ul>
+<li><a href="https://reactjs.org/">React</a></li>
+</ul>
+<p>React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces.</p>
+<p>It is maintained by Facebook and a community of individual developers and companies.</p>
+<p>React can be used as a base in the development of single-page or mobile applications.</p>
+<p>Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API.</p>
+<ul>
+<li><a href="vuejs.org/">Vue.js</a></li>
+</ul>
+<p>Vue.js is one of the latest players in the front-end frameworks scene.</p>
+<p>Vue.js is a framework for building user interfaces. It&rsquo;s very simple, flexible, and easy-to-use, similar to jQuery and Bootstrap.</p>
+<p>Now that you have learned about some JavaScript Frameworks you might think:</p>
+<h1 id="how-many-javascript-frameworks-are-there">How many JavaScript Frameworks are there?<a hidden class="anchor" aria-hidden="true" href="#how-many-javascript-frameworks-are-there">#</a></h1>
+<p>According to <a href="https://en.wikipedia.org/wiki/List_of_JavaScript_libraries">Wikipedia about 83</a> whereby some are not maintained any more.</p>
+<h1 id="final-thoughts">Final thoughts<a hidden class="anchor" aria-hidden="true" href="#final-thoughts">#</a></h1>
+<p>The goal of this article was to give a brief overview of what JavaScript frameworks are and when you can use them.</p>
+<p>I also wanted to clear up some vocabulary terms that get confused between frameworks and libraries.</p>
+<p>Hopefully, after reading this article you’ll have a better understanding of what JavaScript Frameworks are, why you might use one, and how to choose the right framework for your particular use case.</p>
+<p>Before I jump off I would like to know one thing.</p>
+<p>Have you ever worked with a JavaScript Framework?</p>
+<p>Just tweet me
+
+
+<a href="https://twitter.com/futurefounder21" >
+ <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+  <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+</svg> futurefounder21.</a><br>
+			
+</p>
+<h2 id="further-resources">Further resources<a hidden class="anchor" aria-hidden="true" href="#further-resources">#</a></h2>
+<ul>
+<li><a href="https://youtu.be/OrxmtDw4pVI">Honeypot - Youtube Documentary on Vue.js</a></li>
+<li><a href="https://blog.hubspot.com/website/javascript-frameworks">Hubspot - The 5 Best JavaScript Frameworks of 2022</a></li>
+<li><a href="https://www.geeksforgeeks.org/top-10-most-popular-javascript-frameworks-for-web-development/">Geeks for Geeks - 10 most popular JavaScript Frameworks</a></li>
+</ul>
+
+</div>
+  <footer class="post-footer">
+<nav class="paginav">
+  <a class="prev" href="https://jessekhala.com/posts/rumi-quote-on-change/">
+    <span class="title">« Prev Page</span>
+    <br>
+    <span>🧙🏾‍♂️ Rumi Quote on Change</span>
+  </a>
+  <a class="next" href="https://jessekhala.com/posts/full-stack-web-development-course-free/">
+    <span class="title">Next Page »</span>
+    <br>
+    <span>👨🏾‍💻 Learning Full Stack Web Development for Free - My First Month</span>
+  </a>
+</nav>
+
+  </footer>
+</article>
+    </main>
+    <footer class="footer">
+    <span>&copy; 2022 <a href="https://jessekhala.com/">Jesse Khala</a></span>
+    <span>&middot;</span>
+    <span>Powered by <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a></span>
+    <span>&middot;</span>
+    <span>Theme <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a></span>
+    <span>&middot;</span>
+    <span> <a href="\imprint" rel="noopener" >Impressum [DE]</a></span>
+    <span>&middot;</span>
+    <span> <a href="\privacy" rel="noopener">Datenschutz [DE]</a></span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)">
+    <button class="top-link" id="top-link" type="button" accesskey="g">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+            <path d="M12 6H0l6-6z" />
+        </svg>
+    </button>
+</a><script src="https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js">
+  </script>
+
+<script>
+    window.onload = function () {
+        if (localStorage.getItem("menu-scroll-position")) {
+            document.getElementById('menu').scrollLeft = localStorage.getItem("menu-scroll-position");
+        }
+    }
+
+    function menu_on_scroll() {
+        localStorage.setItem("menu-scroll-position", document.getElementById('menu').scrollLeft);
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerText = 'copy';
+
+        function copyingDone() {
+            copybutton.innerText = 'copied!';
+            setTimeout(() => {
+                copybutton.innerText = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>
