@@ -9,7 +9,23 @@
       <link>https://jessekhala.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 May 2022 14:16:43 +0200</lastBuildDate><atom:link href="https://jessekhala.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jun 2022 08:50:00 +0200</lastBuildDate><atom:link href="https://jessekhala.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📝 May &#39;22 - Reflection</title>
+      <link>https://jessekhala.com/posts/may-reflection/</link>
+      <pubDate>Thu, 09 Jun 2022 08:50:00 +0200</pubDate>
+      
+      <guid>https://jessekhala.com/posts/may-reflection/</guid>
+      <description>Overview It&amp;rsquo;s strange looking back.
+I started my entrepreneurial journey 1 year ago.
+A lot has happended since then.
+But one thing has not changed:
+My willingness to continue my entrepreneurial journey.
+A hard path to walk I have had a few inquires about fulltime positions, but notice that I do not resonate with them at the moment.
+Being a self funded founder is by no means easy.
+I am still struggling with regular income streams and have not cracked this nut yet.</description>
+    </item>
+    
     <item>
       <title>✍🏾 April &#39;22 - Reflection on the past month(s)</title>
       <link>https://jessekhala.com/posts/april-22-reflection/</link>
@@ -983,19 +999,18 @@ I value the benefits like creating an individual work/life schedule or not havin
       
       <guid>https://jessekhala.com/projects/</guid>
       <description>Here are some free-time &amp;amp; business projects I&amp;rsquo;ve been working on lately:
- 🕹️ Rock Paper Scissors - Game  What
-A simple rock papers scissors game of 5 rounds with a dynamic background and the option to play music.
+🌿 Nomad Vegan Meetup  What
+A meetup for digital nomads in Berlin
 How
-HTML, CSS, JavaScript
+carrd.co, Facebook Groups, convertkit
 When
-01/2022
+06/22
 Why
-Part of &amp;ldquo;The Odin Project&amp;rdquo; Fudamentals Course
+I created a meetup for Vegan in Mexico City and it was really nice, so I decided to do the same for Berlin
 Target audience
-Everyone :)
+Digital Nomads from Berlin interested in meeting at Vegan places
 Status
-✔️ Live - Play it here
- 🎯 remote n active - Dynamic List  What</description>
+✔️Live</description>
     </item>
     
     
