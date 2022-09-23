@@ -47,7 +47,8 @@ window.addEventListener('DOMContentLoaded', () => {
     })
 })
 </script>
-<script async defer data-domain="jessekhala.com" src="https://plausible.io/js/plausible.js"></script><meta property="og:title" content="Jesse Khala" />
+<script async defer data-domain="jessekhala.com" src="https://plausible.io/js/plausible.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script><meta property="og:title" content="Jesse Khala" />
 <meta property="og:description" content="Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://jessekhala.com/" /><meta property="og:image" content="https://jessekhala.com/papermod-cover.png"/>
@@ -182,7 +183,10 @@ window.addEventListener('DOMContentLoaded', () => {
 <article class="first-entry home-info">
     <div id="vantajs" position: absolute; z-index: 0; top: 0px; left: 0px; width: 768px; height: 670px;></div>
      <header class="entry-header">
-        <h1>👋🏾 Hi, I&rsquo;m Jesse</h1>
+        
+        <h1> 👋🏾 <div id="typed-strings"> <p><strong> Hi, I'm Jesse</strong></p>
+          </div>
+          <span id="typed"></span></h1>
 
     </header>
     <section class="entry-content">
@@ -307,7 +311,13 @@ I am still struggling with regular income streams and have not cracked this nut 
         </svg>
     </button>
 </a><script src="https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js">
-  </script>
+  </script> 
+          <script>
+            var typed = new Typed('#typed', {
+              stringsElement: '#typed-strings',
+              typeSpeed: 130
+            });
+          </script>
 
 <script>
     window.onload = function () {
