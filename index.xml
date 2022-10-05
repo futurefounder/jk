@@ -1042,6 +1042,19 @@ I wanted full flexibility with the least possible effort in the creation, as in 
       <description>The site is online now.</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://jessekhala.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jessekhala.com/about/</guid>
+      <description>Hi✌🏾
+After working for a decade in the advertising industry, I decided to start an entrepreneurial adventure in 2021 by doing remote freelance work and learning web development.
+Since my first experience with remote work in 2015, I have become a true advocate.
+I value the benefits like creating an individual work/life schedule or not having to commute, but I&amp;rsquo;ve made the experience that a social connection can suffer.
+I want to change this and also help other people with getting into the remote world, which is why I am working on remotenactive.</description>
+    </item>
+    
     
     
     <item>
@@ -1082,12 +1095,21 @@ Umsatzsteuer-Identifikationsnummer gem. § 27a UStG: Auf Anfrage</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jessekhala.com/imprint/</guid>
-      <description>Responsible for content according to § 55 paragraph 2 RStV Jesse Khala
-Good Independent Ventures
+      <description>Responsible for content according to § 55 paragraph 2 RStV
+Jesse Khala
 Schliemannstr. 44
 10437 Berlin
-E-Mail: mail @ jessekhala.de
-VAT ID number ( § 27a German Umsatzsteuergesetz) : On Request</description>
+E-Mail: mail @ jessekhala.de</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jessekhala.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jessekhala.com/projects/</guid>
+      <description>Here are some free-time &amp;amp; business projects I’ve been working on. Tech &amp;amp; Tools I&amp;rsquo;ve been working with: HTML, CSS, JavaScript, React, Tailwind CSS, Hugo Framework, Netlify, GitHub, Ghost, Carrd.co
+Project Info 😂 Meme Generator A Meme Generator 🏝️ Remote &amp;rsquo;n Active A website for remote workers 🎯 Dynamic Web-App A website to find remote activities 🚀 Service-Landingpage B2B Service for remote/hybrid companies 📝 Personal Website This website 🌿 Nomad Vegan Meetup Meetup for Digital Nomads in Berlin 🚩 Remote Leadership Training Online Course for Remote Leadership 🏜️ Game: No Peyote Jump ‘n Run Game about a Mexican cactus 🕹️ Game: Rock Paper Scissors Round based RPS Game </description>
     </item>
     
     <item>
@@ -1112,19 +1134,6 @@ Teamleiter-/innen haben viel zu tun. Vor allem in der modernen Arbeitsumgebung.<
     
     
     <item>
-      <title>This site</title>
-      <link>https://jessekhala.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jessekhala.com/about/</guid>
-      <description>Hi✌🏾
-After working for a decade in the advertising industry, I&amp;rsquo;ve decided to start an entrepreneurial adventure by doing remote freelance work and learning web development.
-Since my first experience with remote work in 2015, I have become a true advocate.
-I value the benefits like creating an individual work/life schedule or not having to commute, but I&amp;rsquo;ve made the experience that a social connection can suffer.
-I want to change this and am therefore working on remotenactive.</description>
-    </item>
-    
-    <item>
       <title>Über</title>
       <link>https://jessekhala.com/uber.de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1135,16 +1144,6 @@ Nach fast einem Jahrzehnt in der Werbebranche habe ich den Entschluss gefasst mi
 Seit meiner ersten Erfahrung mit Remote Arbeit in 2015 bin ich ein großer Befürworter geworden.
 Ich schätze die Freiheit und Flexibilität, habe aber auch die Erfahrung gemacht, dass die menschliche Ebene in dieser technischen Welt zu kurz kommt.
 Das will ich ändern und arbeite daher an RemoteNActive.</description>
-    </item>
-    
-    <item>
-      <title>Web Development</title>
-      <link>https://jessekhala.com/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jessekhala.com/projects/</guid>
-      <description>Here are some free-time &amp;amp; business projects I’ve been working on. Tech &amp;amp; Tools I&amp;rsquo;ve been working with: HTML, CSS, JavaScript, React, Tailwind CSS, Hugo Framework, Netlify, GitHub, Ghost, Carrd.co
-Project Info 😂 Meme Generator A Meme Generator 🏝️ Remote &amp;rsquo;n Active A website for remote workers 🎯 Dynamic Web-App A website to find remote activities 🚀 Service-Landingpage B2B Service for remote/hybrid companies 📝 Personal Website This website 🌿 Nomad Vegan Meetup Meetup for Digital Nomads in Berlin 🚩 Remote Leadership Training Online Course for Remote Leadership 🏜️ Game: No Peyote Jump ‘n Run Game about a Mexican cactus 🕹️ Game: Rock Paper Scissors Round based RPS Game </description>
     </item>
     
     <item>
