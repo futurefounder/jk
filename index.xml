@@ -9,7 +9,19 @@
       <link>https://jessekhala.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Oct 2022 15:45:32 +0200</lastBuildDate><atom:link href="https://jessekhala.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Oct 2022 08:36:57 +0200</lastBuildDate><atom:link href="https://jessekhala.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>👀 Understanding ReactJS</title>
+      <link>https://jessekhala.com/posts/understanding-react/</link>
+      <pubDate>Wed, 05 Oct 2022 08:36:57 +0200</pubDate>
+      
+      <guid>https://jessekhala.com/posts/understanding-react/</guid>
+      <description>So, I&amp;rsquo;ve been learning Web Development for several months and things are moving very, very slowly, but surely.
+Before I restarted my journey of getting into learning to code I had an understanding of how the web worked and was familiar with HTML, CSS and a little JavaScript (aka Script-Kiddie).
+This was a huge benefit when I started to create my first websites again in 2021.
+But then came ReactJS.</description>
+    </item>
+    
     <item>
       <title>🔨Slow Webflow Site Because Of A Embedded Youtube Video? Here&#39;s Your Fix</title>
       <link>https://jessekhala.com/posts/webflow-embed-youtube-video-slow-sitepeed-fix/</link>
