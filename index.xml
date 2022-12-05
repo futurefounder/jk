@@ -9,7 +9,17 @@
       <link>https://jessekhala.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 03 Nov 2022 12:24:12 +0100</lastBuildDate><atom:link href="https://jessekhala.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Dec 2022 19:12:14 +0100</lastBuildDate><atom:link href="https://jessekhala.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🔍 Introducing the LinkedIn Recent Shares Button Extension</title>
+      <link>https://jessekhala.com/posts/recent-posts-button/</link>
+      <pubDate>Mon, 05 Dec 2022 19:12:14 +0100</pubDate>
+      
+      <guid>https://jessekhala.com/posts/recent-posts-button/</guid>
+      <description>As a hobby software developer, I am always looking for ways to improve my workflow and make my job easier. Recently, I decided to try my hand at creating a Chrome extension to help me navigate LinkedIn more efficiently.
+The Goal The goal of my extension was to add a new button to LinkedIn profile pages that would allow me to quickly view a person&amp;rsquo;s recent shares. I thought this would be a useful feature because it would save me from having to navigate through multiple menus and pages to see someone&amp;rsquo;s recent activity.</description>
+    </item>
+    
     <item>
       <title>🔐 I Made A Password Generator App</title>
       <link>https://jessekhala.com/posts/password-generator-app/</link>
@@ -1131,7 +1141,7 @@ E-Mail: mail @ jessekhala.de</description>
       
       <guid>https://jessekhala.com/projects/</guid>
       <description>Here are some free-time &amp;amp; business projects I’ve been working on. Tech &amp;amp; Tools I&amp;rsquo;ve been working with: HTML, CSS, JavaScript, ReactJS, Tailwind CSS, Hugo Framework, Netlify, GitHub, Ghost, Carrd.co
-Project Info 📺 ThaiTeewee A website to watch Thai video 🌟 New 🗝️ Password Generator A password generator 😂 Meme Generator A Meme Generator 🏝️ Remote &amp;rsquo;n Active A website for remote workers 🎯 Dynamic Web-App A website to find remote activities 🚀 Service-Landingpage B2B Service for remote/hybrid companies 📝 Personal Website This website 🌿 Nomad Vegan Meetup Meetup for Digital Nomads in Berlin 🚩 Remote Leadership Training Online Course for Remote Leadership 🏜️ Game: No Peyote Jump ‘n Run Game about a Mexican cactus 🕹️ Game: Rock Paper Scissors Round based RPS Game </description>
+Project Info 🔍 Recent Posts A Chrome extension 🌟 New 📺 ThaiTeewee A website to watch Thai video 🗝️ Password Generator A password generator 😂 Meme Generator A Meme Generator 🏝️ Remote &amp;rsquo;n Active A website for remote workers 🎯 Dynamic Web-App A website to find remote activities 🚀 Service-Landingpage B2B Service for remote/hybrid companies 📝 Personal Website This website 🌿 Nomad Vegan Meetup Meetup for Digital Nomads in Berlin 🚩 Remote Leadership Training Online Course for Remote Leadership 🏜️ Game: No Peyote Jump ‘n Run Game about a Mexican cactus 🕹️ Game: Rock Paper Scissors Round based RPS Game </description>
     </item>
     
     <item>

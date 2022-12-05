@@ -9,7 +9,17 @@
       <link>https://jessekhala.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 03 Nov 2022 12:24:12 +0100</lastBuildDate><atom:link href="https://jessekhala.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Dec 2022 19:12:14 +0100</lastBuildDate><atom:link href="https://jessekhala.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🔍 Introducing the LinkedIn Recent Shares Button Extension</title>
+      <link>https://jessekhala.com/posts/recent-posts-button/</link>
+      <pubDate>Mon, 05 Dec 2022 19:12:14 +0100</pubDate>
+      
+      <guid>https://jessekhala.com/posts/recent-posts-button/</guid>
+      <description>As a hobby software developer, I am always looking for ways to improve my workflow and make my job easier. Recently, I decided to try my hand at creating a Chrome extension to help me navigate LinkedIn more efficiently.
+The Goal The goal of my extension was to add a new button to LinkedIn profile pages that would allow me to quickly view a person&amp;rsquo;s recent shares. I thought this would be a useful feature because it would save me from having to navigate through multiple menus and pages to see someone&amp;rsquo;s recent activity.</description>
+    </item>
+    
     <item>
       <title>🔐 I Made A Password Generator App</title>
       <link>https://jessekhala.com/posts/password-generator-app/</link>
