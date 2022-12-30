@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jessekhala.com/</loc>
-    <lastmod>2022-12-05T19:12:14+01:00</lastmod>
-  </url><url>
     <loc>https://jessekhala.com/posts/recent-posts-button/</loc>
     <lastmod>2022-12-05T19:12:14+01:00</lastmod>
   </url><url>
     <loc>https://jessekhala.com/posts/</loc>
+    <lastmod>2022-12-05T19:12:14+01:00</lastmod>
+  </url><url>
+    <loc>https://jessekhala.com/</loc>
     <lastmod>2022-12-05T19:12:14+01:00</lastmod>
   </url><url>
     <loc>https://jessekhala.com/posts/password-generator-app/</loc>
@@ -262,6 +262,8 @@
     <loc>https://jessekhala.com/archiv.de/</loc>
   </url><url>
     <loc>https://jessekhala.com/archives/</loc>
+  </url><url>
+    <loc>https://jessekhala.com/availability/</loc>
   </url><url>
     <loc>https://jessekhala.com/categories/</loc>
   </url><url>
