@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jessekhala.com/posts/look-2023/</loc>
+    <loc>https://jessekhala.com/posts/</loc>
     <lastmod>2023-01-03T07:03:55+01:00</lastmod>
   </url><url>
-    <loc>https://jessekhala.com/posts/</loc>
+    <loc>https://jessekhala.com/posts/look-2023/</loc>
     <lastmod>2023-01-03T07:03:55+01:00</lastmod>
   </url><url>
     <loc>https://jessekhala.com/</loc>
@@ -167,12 +167,6 @@
     <loc>https://jessekhala.com/posts/weekly-status-report-3.de/</loc>
     <lastmod>2021-05-29T11:02:12+02:00</lastmod>
   </url><url>
-    <loc>https://jessekhala.com/posts/meaningful-connections/</loc>
-    <lastmod>2021-05-24T17:20:44+02:00</lastmod>
-  </url><url>
-    <loc>https://jessekhala.com/posts/meaningful-connections.de/</loc>
-    <lastmod>2021-05-24T17:20:44+02:00</lastmod>
-  </url><url>
     <loc>https://jessekhala.com/tags/entrepreneurship/</loc>
     <lastmod>2021-05-24T17:20:44+02:00</lastmod>
   </url><url>
@@ -180,6 +174,12 @@
     <lastmod>2021-05-24T17:20:44+02:00</lastmod>
   </url><url>
     <loc>https://jessekhala.com/tags/</loc>
+    <lastmod>2021-05-24T17:20:44+02:00</lastmod>
+  </url><url>
+    <loc>https://jessekhala.com/posts/meaningful-connections/</loc>
+    <lastmod>2021-05-24T17:20:44+02:00</lastmod>
+  </url><url>
+    <loc>https://jessekhala.com/posts/meaningful-connections.de/</loc>
     <lastmod>2021-05-24T17:20:44+02:00</lastmod>
   </url><url>
     <loc>https://jessekhala.com/posts/weekly-goals-2/</loc>
@@ -266,8 +266,6 @@
     <loc>https://jessekhala.com/about/</loc>
   </url><url>
     <loc>https://jessekhala.com/archives/</loc>
-  </url><url>
-    <loc>https://jessekhala.com/availability/</loc>
   </url><url>
     <loc>https://jessekhala.com/categories/</loc>
   </url><url>
