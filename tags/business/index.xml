@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on 🏡</title>
+    <link>https://jessekhala.com/tags/business/</link>
+    <description>Recent content in Business on 🏡</description>
+    <image>
+      <url>https://jessekhala.com/papermod-cover.png</url>
+      <link>https://jessekhala.com/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Jun 2023 08:41:57 +0200</lastBuildDate><atom:link href="https://jessekhala.com/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🗃️ Archiving a Project</title>
+      <link>https://jessekhala.com/posts/archiving-a-project/</link>
+      <pubDate>Tue, 27 Jun 2023 08:41:57 +0200</pubDate>
+      
+      <guid>https://jessekhala.com/posts/archiving-a-project/</guid>
+      <description>About 2 years ago I started remotenactive.com and on the last weekend I archived the project. The process of working on this project has made me realize what I learned during the ride.
+Here are unsorted things I learned
+ Going through YCombinators’ startup school helped me structuring my idea, but the real world had more unforeseen variables than expected Cheap website builders get pricey if you do not make enough money, I went from paying 19$/month to 29$/month, only to rebuild things on my own and pay 0$/month My tech journey: From carrd and airtable to making my own landing page with HTML, CSS, JS, then going to Ghost with customizing the theme, in the end archiving with Hugo and customizing a theme Sales is super hard, automating lead generation with tools on social media is kinda cringy, but brought a little sale I do’nt enjoy being in the digital spotlight and having to post on social media frequently Modern marketing is an online battle of optimized images and sneaky words Going viral is random Creating online content regularly is tough, very tough SEO Tools are fascinating, but some things are like a black box One of the most exciting parts of a project is rebuilding things nobody cares about (except yourself) Spammers, spammers and scammers everywhere Having anykind of project realted social social, be it digital or in real-life is essential Know when to move on  </description>
+    </item>
+    
+  </channel>
+</rss>
