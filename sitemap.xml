@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jessekhala.com/tags/business/</loc>
-    <lastmod>2023-06-27T08:41:57+02:00</lastmod>
-  </url><url>
     <loc>https://jessekhala.com/</loc>
-    <lastmod>2023-06-27T08:41:57+02:00</lastmod>
+    <lastmod>2023-07-31T09:02:00+02:00</lastmod>
   </url><url>
     <loc>https://jessekhala.com/posts/</loc>
-    <lastmod>2023-06-27T08:41:57+02:00</lastmod>
+    <lastmod>2023-07-31T09:02:00+02:00</lastmod>
   </url><url>
     <loc>https://jessekhala.com/tags/</loc>
+    <lastmod>2023-07-31T09:02:00+02:00</lastmod>
+  </url><url>
+    <loc>https://jessekhala.com/tags/web-development/</loc>
+    <lastmod>2023-07-31T09:02:00+02:00</lastmod>
+  </url><url>
+    <loc>https://jessekhala.com/posts/navigating-my-web-development-career-current-reflections/</loc>
+    <lastmod>2023-07-31T09:02:00+02:00</lastmod>
+  </url><url>
+    <loc>https://jessekhala.com/tags/business/</loc>
     <lastmod>2023-06-27T08:41:57+02:00</lastmod>
   </url><url>
     <loc>https://jessekhala.com/posts/archiving-a-project/</loc>

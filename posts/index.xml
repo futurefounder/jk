@@ -9,7 +9,16 @@
       <link>https://jessekhala.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Jun 2023 08:41:57 +0200</lastBuildDate><atom:link href="https://jessekhala.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jul 2023 09:02:00 +0200</lastBuildDate><atom:link href="https://jessekhala.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🛶 Navigating Web Development - Current Reflections</title>
+      <link>https://jessekhala.com/posts/navigating-my-web-development-career-current-reflections/</link>
+      <pubDate>Mon, 31 Jul 2023 09:02:00 +0200</pubDate>
+      
+      <guid>https://jessekhala.com/posts/navigating-my-web-development-career-current-reflections/</guid>
+      <description>I started getting back into Web Development at the end of 2021 after realizing that I enjoy understanding how modern web development works and noticing that no-code page builders overcharge for features that are sometimes just one little line of code. Don&amp;rsquo;t get me wrong, I like no-code website builders, they often save a lot of time, but they can get pricey if you just want a few extra features.</description>
+    </item>
+    
     <item>
       <title>🗃️ Archiving a Project</title>
       <link>https://jessekhala.com/posts/archiving-a-project/</link>

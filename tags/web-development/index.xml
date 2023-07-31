@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web development on Jesse Khala I Web Development I Marketing</title>
+    <link>https://jessekhala.com/tags/web-development/</link>
+    <description>Recent content in web development on Jesse Khala I Web Development I Marketing</description>
+    <image>
+      <url>https://jessekhala.com/papermod-cover.png</url>
+      <link>https://jessekhala.com/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 31 Jul 2023 09:02:00 +0200</lastBuildDate><atom:link href="https://jessekhala.com/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🛶 Navigating Web Development - Current Reflections</title>
+      <link>https://jessekhala.com/posts/navigating-my-web-development-career-current-reflections/</link>
+      <pubDate>Mon, 31 Jul 2023 09:02:00 +0200</pubDate>
+      
+      <guid>https://jessekhala.com/posts/navigating-my-web-development-career-current-reflections/</guid>
+      <description>I started getting back into Web Development at the end of 2021 after realizing that I enjoy understanding how modern web development works and noticing that no-code page builders overcharge for features that are sometimes just one little line of code. Don&amp;rsquo;t get me wrong, I like no-code website builders, they often save a lot of time, but they can get pricey if you just want a few extra features.</description>
+    </item>
+    
+  </channel>
+</rss>

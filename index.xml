@@ -9,7 +9,16 @@
       <link>https://jessekhala.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Jun 2023 08:41:57 +0200</lastBuildDate><atom:link href="https://jessekhala.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jul 2023 09:02:00 +0200</lastBuildDate><atom:link href="https://jessekhala.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🛶 Navigating Web Development - Current Reflections</title>
+      <link>https://jessekhala.com/posts/navigating-my-web-development-career-current-reflections/</link>
+      <pubDate>Mon, 31 Jul 2023 09:02:00 +0200</pubDate>
+      
+      <guid>https://jessekhala.com/posts/navigating-my-web-development-career-current-reflections/</guid>
+      <description>I started getting back into Web Development at the end of 2021 after realizing that I enjoy understanding how modern web development works and noticing that no-code page builders overcharge for features that are sometimes just one little line of code. Don&amp;rsquo;t get me wrong, I like no-code website builders, they often save a lot of time, but they can get pricey if you just want a few extra features.</description>
+    </item>
+    
     <item>
       <title>🗃️ Archiving a Project</title>
       <link>https://jessekhala.com/posts/archiving-a-project/</link>
@@ -1180,7 +1189,7 @@ E-Mail: mail @ jessekhala.de</description>
       <description>Welcome to the projects section! 👷🏾‍♂️
 I am embarking on a journey of learning and creating valuable solutions using various programming languages, frameworks and tools like React.js, Next.js, Vercel, Netlify, and Hugo. My primary goal is to acquire new skills and knowledge while crafting meaningful projects.
 If a project doesn&amp;rsquo;t align with creating something of value, I discontinue it.
-🌟 Work in progress    Project Info Tech Stack     🧘🏽‍♂️ 9Friends Small group fitness classes NextJS, Vercel   📝 Personal Website This website Hugo, Netlify    ⛔ Discontinued    Project Info Tech Stack     🏝️ Koh Phangan Nomad Collective A Telegram Group Telegram   🔍 Recent Posts A Chrome extension Hugo, JavaScript JavaScript   📺 ThaiTeewee A website to watch Thai video ReactJS   🗝️ Password Generator A password generator ReactJS   😂 Meme Generator A Meme Generator ReactJS   🏝️ Remote &amp;rsquo;n Active A website for remote workers Hugo, Netlify   🎯 Dynamic Web-App A website to find remote activities JavaScript, Netlify   🚀 Service-Landingpage B2B Service for remote/hybrid companies JavaScript, Netlify   🌿 Nomad Vegan Meetup Meetup for Digital Nomads in Berlin Carrd   🚩 Remote Leadership Online Training Online Course for Remote Leadership (Smoke Test) Carrd   🏜️ Game: No Peyote Jump ‘n Run Game about a Mexican cactus JavaScript, Netlify    </description>
+🌟 Work in progress    Project Info Tech Stack     🧘🏽‍♂️ 9Friends Small group fitness classes NextJS, Vercel   📝 Personal Website This website Hugo, Netlify    ⏮️ Past    Project Info Tech Stack     🔍 Recent Posts A Chrome extension Hugo, JavaScript CSS, JavaScript   📺 ThaiTeewee A website to watch Thai video ReactJS   🗝️ Password Generator A password generator ReactJS   😂 Meme Generator A Meme Generator ReactJS   🏝️ Remote &amp;rsquo;n Active A website for remote workers Hugo   🎯 Dynamic Web-App A website to find remote activities HTML, CSS, JavaScript   🚀 Service-Landingpage B2B Service for remote/hybrid companies HTML, CSS, JavaScript   🏜️ Game: No Peyote Jump ‘n Run Game about a Mexican cactus HTML, CSS, JavaScript    </description>
     </item>
     
     
