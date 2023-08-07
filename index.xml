@@ -9,7 +9,17 @@
       <link>https://jessekhala.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 31 Jul 2023 09:02:00 +0200</lastBuildDate><atom:link href="https://jessekhala.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Aug 2023 13:47:00 +0200</lastBuildDate><atom:link href="https://jessekhala.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🆙 I&#39;m React State, Lift Me Up, Asshole</title>
+      <link>https://jessekhala.com/posts/im-react-state-lift-me-up-asshole/</link>
+      <pubDate>Mon, 07 Aug 2023 13:47:00 +0200</pubDate>
+      
+      <guid>https://jessekhala.com/posts/im-react-state-lift-me-up-asshole/</guid>
+      <description>Note: AI assistance was employed in crafting the code snippets and refining this article. The inspiration came from the article: &amp;ldquo;I&amp;rsquo;m Comic Sans, Asshole&amp;rdquo;.
+  Stop it. I said: &amp;ldquo;STOP. IT!&amp;rdquo;. Stupid. You have been re-rendering your TindasanaAI React component for the gazillionth time and the items you are selecting are always lost along the way. Well, it&amp;rsquo;s time to lift me up, asshole. You don&amp;rsquo;t understand why? Well, let me baby-feed this for you.</description>
+    </item>
+    
     <item>
       <title>🛶 Navigating Web Development - Current Reflections</title>
       <link>https://jessekhala.com/posts/navigating-my-web-development-career-current-reflections/</link>

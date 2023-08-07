@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>🆙 I&#39;m React State, Lift Me Up, Asshole | Jesse Khala I Web Development I Marketing</title>
+<meta name="keywords" content="web development" />
+<meta name="description" content="Note: AI assistance was employed in crafting the code snippets and refining this article. The inspiration came from the article: &ldquo;I&rsquo;m Comic Sans, Asshole&rdquo;.
+  Stop it. I said: &ldquo;STOP. IT!&rdquo;. Stupid. You have been re-rendering your TindasanaAI React component for the gazillionth time and the items you are selecting are always lost along the way. Well, it&rsquo;s time to lift me up, asshole. You don&rsquo;t understand why? Well, let me baby-feed this for you.">
+<meta name="author" content="">
+<link rel="canonical" href="https://jessekhala.com/posts/im-react-state-lift-me-up-asshole/" />
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.6c4e07499009affc3cdc8fc0f91b06900db112d0cd6e65b5c63c659051865f32.css" integrity="sha256-bE4HSZAJr/w83I/A&#43;RsGkA2xEtDNbmW1xjxlkFGGXzI=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.4dcb3c4f38462f66c6b6137227726f5543cb934cca9788f041c087e374491df2.js" integrity="sha256-Tcs8TzhGL2bGthNyJ3JvVUPLk0zKl4jwQcCH43RJHfI="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://i.ibb.co/qRfGHnn/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://i.ibb.co/yggS38R/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://i.ibb.co/P9n9GX4/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://jessekhala.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://jessekhala.com/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<meta name="generator" content="Hugo 0.93.3" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.birds.min.js"></script>
+<script type="text/javascript">
+  window.addEventListener("DOMContentLoaded", () => {
+    VANTA.BIRDS({
+      el: "#vantajs",
+      mouseControls: true,
+      touchControls: true,
+      gyroControls: false,
+      minHeight: 200.0,
+      minWidth: 200.0,
+      scale: 1.0,
+      scaleMobile: 1.0,
+      color1: 0xf27070,
+      color2: 0xbe61f0,
+      birdSize: 1.8,
+      wingSpan: 40.0,
+      speedLimit: 3.0,
+      separation: 21.0,
+      alignment: 21.0,
+      cohesion: 32.0,
+      quantity: 1.0,
+      backgroundAlpha: 0.0,
+    });
+  });
+</script>
+<script
+  async
+  defer
+  data-domain="jessekhala.com"
+  src="https://plausible.io/js/plausible.js"
+></script>
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script src="https://unpkg.com/@botpoison/browser" async></script>
+<meta
+  name="google-site-verification"
+  content="2Gprz7qje9is31jCdOIbFpdsBnId3rCUsgvnTexyF10"
+/><meta property="og:title" content="🆙 I&#39;m React State, Lift Me Up, Asshole" />
+<meta property="og:description" content="Note: AI assistance was employed in crafting the code snippets and refining this article. The inspiration came from the article: &ldquo;I&rsquo;m Comic Sans, Asshole&rdquo;.
+  Stop it. I said: &ldquo;STOP. IT!&rdquo;. Stupid. You have been re-rendering your TindasanaAI React component for the gazillionth time and the items you are selecting are always lost along the way. Well, it&rsquo;s time to lift me up, asshole. You don&rsquo;t understand why? Well, let me baby-feed this for you." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://jessekhala.com/posts/im-react-state-lift-me-up-asshole/" /><meta property="og:image" content="https://jessekhala.com/papermod-cover.png"/><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-08-07T13:47:00&#43;02:00" />
+<meta property="article:modified_time" content="2023-08-07T13:47:00&#43;02:00" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://jessekhala.com/papermod-cover.png"/>
+
+<meta name="twitter:title" content="🆙 I&#39;m React State, Lift Me Up, Asshole"/>
+<meta name="twitter:description" content="Note: AI assistance was employed in crafting the code snippets and refining this article. The inspiration came from the article: &ldquo;I&rsquo;m Comic Sans, Asshole&rdquo;.
+  Stop it. I said: &ldquo;STOP. IT!&rdquo;. Stupid. You have been re-rendering your TindasanaAI React component for the gazillionth time and the items you are selecting are always lost along the way. Well, it&rsquo;s time to lift me up, asshole. You don&rsquo;t understand why? Well, let me baby-feed this for you."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://jessekhala.com/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "🆙 I'm React State, Lift Me Up, Asshole",
+      "item": "https://jessekhala.com/posts/im-react-state-lift-me-up-asshole/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "🆙 I'm React State, Lift Me Up, Asshole",
+  "name": "🆙 I\u0027m React State, Lift Me Up, Asshole",
+  "description": "Note: AI assistance was employed in crafting the code snippets and refining this article. The inspiration came from the article: \u0026ldquo;I\u0026rsquo;m Comic Sans, Asshole\u0026rdquo;.\n  Stop it. I said: \u0026ldquo;STOP. IT!\u0026rdquo;. Stupid. You have been re-rendering your TindasanaAI React component for the gazillionth time and the items you are selecting are always lost along the way. Well, it\u0026rsquo;s time to lift me up, asshole. You don\u0026rsquo;t understand why? Well, let me baby-feed this for you.",
+  "keywords": [
+    "web development"
+  ],
+  "articleBody": " Note: AI assistance was employed in crafting the code snippets and refining this article. The inspiration came from the article: “I’m Comic Sans, Asshole”.\n  Stop it. I said: “STOP. IT!”. Stupid. You have been re-rendering your TindasanaAI React component for the gazillionth time and the items you are selecting are always lost along the way. Well, it’s time to lift me up, asshole. You don’t understand why? Well, let me baby-feed this for you.\nCheck out the not-so-brilliant move of placing the state smack in the middle of the main component:\nfunction TindasaAI() {  const [selectedSequenceOptions, setSelectedSequenceOptions] = useState({  theme_chakras: false,  theme_season: false,  // ... (other options)  });   const handleImageClick = (selection) = {  // Update state logic  };   // Render your UI, use handleImageClick, and show selected options. } Boom. Every time you hop to the next stage of the app, you’re basically throwing your selectedSequenceOptions into a black hole. It’s like doing a yoga pose on your mat and when you want to move from one pose to the next, someone comes along and pulls the mat away from underneath your feet. Namaste, stupid.\nFucking lift me up, bro. Just create a wrapper component, save the state in the wrapper and let the child component do its thing and re-render as often as it wants, the state will be as stable as grandma’s Wi-Fi password (which is “password”).\nBehold, the beauty of lifted state:\nfunction TindasaAIWrapper() { // Uh, yeah, I love this nice wrapper  const [selectedSequenceOptions, setSelectedSequenceOptions] = useState({  theme_chakras: false,  theme_season: false,  // ... (rest of the options)  });   const handleImageClick = (selection) = {  // Update state logic  };   return (  TindasaAI  handleImageClick={handleImageClick}  selectedSequenceOptions={selectedSequenceOptions}  // ... (other props)  /  ); }  function TindasaAI({ handleImageClick, selectedSequenceOptions }) {  // Render your UI, use handleImageClick, and show selected options. } It’s like having your yoga mat placed in a central location in your studio, no matter which poses you choose or how many times you change it, the mat remains in the same spot, keeping your selections (or poses) consistent.\nSo don’t forget this. By lifting up state you create a central place for your state and make it more accessible and prevent unwanted state resets.\nThanks for the lift, bro.\n",
+  "wordCount" : "374",
+  "inLanguage": "en",
+  "datePublished": "2023-08-07T13:47:00+02:00",
+  "dateModified": "2023-08-07T13:47:00+02:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://jessekhala.com/posts/im-react-state-lift-me-up-asshole/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Jesse Khala I Web Development I Marketing",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://i.ibb.co/qRfGHnn/favicon-96x96.png"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+<noscript>
+    <style type="text/css">
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: #1d1e20;
+                --entry: #2e2e33;
+                --primary: rgba(255, 255, 255, 0.84);
+                --secondary: rgba(255, 255, 255, 0.56);
+                --tertiary: rgba(255, 255, 255, 0.16);
+                --content: rgba(255, 255, 255, 0.74);
+                --hljs-bg: #2e2e33;
+                --code-bg: #37383e;
+                --border: #333;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            
+           <a href="/">👨🏾‍💻 Jesse Khala</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle-svg" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu" onscroll="menu_on_scroll()">
+            <li>
+                 
+                <a href="https://jessekhala.com/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                 
+                <a href="https://jessekhala.com/sports/" title="Sports">
+                    <span>Sports</span>
+                </a>
+            </li>
+            <li>
+                 
+                <a href="https://jessekhala.com/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                 
+                <a href="https://jessekhala.com/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+            <li>
+                 
+                <a href="https://jessekhala.com/archives/" title="Archive">
+                    <span>Archive</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      🆙 I&#39;m React State, Lift Me Up, Asshole
+    </h1>
+    <div class="post-meta">August 7, 2023
+</div>
+    <ul class="post-tags">
+      <br />
+      <li><a href="https://jessekhala.com/tags/web-development/">web development</a></li>
+    </ul>
+  </header> 
+  <div class="post-content"><blockquote>
+<p><em><strong>Note</strong>: AI assistance was employed in crafting the code snippets and refining this article. The inspiration came from the article: <a href="https://www.mcsweeneys.net/articles/im-comic-sans-asshole">&ldquo;I&rsquo;m Comic Sans, Asshole&rdquo;</a></em>.</p>
+</blockquote>
+<hr>
+<p>Stop it. I said: &ldquo;STOP. IT!&rdquo;. Stupid. You have been re-rendering your <a href="https://www.my9friends.com/tindasanaai">TindasanaAI</a> React component for the gazillionth time and the items you are selecting are always lost along the way.
+Well, it&rsquo;s time to lift me up, asshole. You don&rsquo;t understand why? Well, let me baby-feed this for you.</p>
+<p>Check out the not-so-brilliant move of placing the state smack in the middle of the main component:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">TindasaAI</span>() {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">const</span> [<span style="color:#a6e22e">selectedSequenceOptions</span>, <span style="color:#a6e22e">setSelectedSequenceOptions</span>] <span style="color:#f92672">=</span> <span style="color:#a6e22e">useState</span>({
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">theme_chakras</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">theme_season</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// ... (other options)
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  });
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">handleImageClick</span> <span style="color:#f92672">=</span> (<span style="color:#a6e22e">selection</span>) =&gt; {
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// Update state logic
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  };
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// Render your UI, use handleImageClick, and show selected options.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>}
+</span></span></code></pre></div><p>Boom. Every time you hop to the next stage of the app, you&rsquo;re basically throwing your <em>selectedSequenceOptions</em> into a black hole.
+It&rsquo;s like doing a yoga pose on your mat and when you want to move from one pose to the next, someone comes along and pulls the mat away from underneath your feet.
+Namaste, stupid.</p>
+<p>Fucking lift me up, bro. Just create a wrapper component, save the state in the wrapper and let the child component do its thing and re-render as often as it wants, the state will be as stable as grandma&rsquo;s Wi-Fi password (which is &ldquo;password&rdquo;).</p>
+<p>Behold, the beauty of lifted state:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">TindasaAIWrapper</span>() { <span style="color:#75715e">// Uh, yeah, I love this nice wrapper
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">const</span> [<span style="color:#a6e22e">selectedSequenceOptions</span>, <span style="color:#a6e22e">setSelectedSequenceOptions</span>] <span style="color:#f92672">=</span> <span style="color:#a6e22e">useState</span>({
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">theme_chakras</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">theme_season</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// ... (rest of the options)
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  });
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">handleImageClick</span> <span style="color:#f92672">=</span> (<span style="color:#a6e22e">selection</span>) =&gt; {
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// Update state logic
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  };
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> (
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&lt;</span><span style="color:#a6e22e">TindasaAI</span><span style="color:#f92672">&gt;</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">handleImageClick</span><span style="color:#f92672">=</span>{<span style="color:#a6e22e">handleImageClick</span>}
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">selectedSequenceOptions</span><span style="color:#f92672">=</span>{<span style="color:#a6e22e">selectedSequenceOptions</span>}
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e">// ... (other props)
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    <span style="color:#960050;background-color:#1e0010">/&gt;</span>
+</span></span><span style="display:flex;"><span>  );
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">TindasaAI</span>({ <span style="color:#a6e22e">handleImageClick</span>, <span style="color:#a6e22e">selectedSequenceOptions</span> }) {
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// Render your UI, use handleImageClick, and show selected options.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>}
+</span></span></code></pre></div><p>It&rsquo;s like having your yoga mat placed in a central location in your studio, no matter which poses you choose or how many times you change it, the mat remains in the same spot, keeping your selections (or poses) consistent.</p>
+<p>So don&rsquo;t forget this. By lifting up state you create a central place for your state and make it more accessible and prevent unwanted state resets.</p>
+<p>Thanks for the lift, bro.</p>
+
+</div>
+  <footer class="post-footer">
+<nav class="paginav">
+  <a class="next" href="https://jessekhala.com/posts/navigating-my-web-development-career-current-reflections/">
+    <span class="title">Next Page »</span>
+    <br>
+    <span>🛶 Navigating Web Development - Current Reflections</span>
+  </a>
+</nav>
+
+  </footer>
+</article>
+    </main>
+    <footer class="footer">
+    <span>&copy; 2023 <a href="https://jessekhala.com/">Jesse Khala I Web Development I Marketing</a></span> <br>
+    
+    <span>Powered by <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> & <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a> </span>
+    
+    <span>&middot;</span> 
+    <span> <a href="\imprint" rel="noopener" >Imprint</a></span>
+    
+    
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)">
+    <button class="top-link" id="top-link" type="button" accesskey="g">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+            <path d="M12 6H0l6-6z" />
+        </svg>
+    </button>
+</a>
+  </script> 
+          <script>
+            var typed = new Typed('#typed', {
+              stringsElement: '#typed-strings',
+              typeSpeed: 130
+            });
+          </script>
+
+<script>
+    window.onload = function () {
+        if (localStorage.getItem("menu-scroll-position")) {
+            document.getElementById('menu').scrollLeft = localStorage.getItem("menu-scroll-position");
+        }
+    }
+
+    function menu_on_scroll() {
+        localStorage.setItem("menu-scroll-position", document.getElementById('menu').scrollLeft);
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerText = 'copy';
+
+        function copyingDone() {
+            copybutton.innerText = 'copied!';
+            setTimeout(() => {
+                copybutton.innerText = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>
