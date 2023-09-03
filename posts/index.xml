@@ -9,7 +9,18 @@
       <link>https://jessekhala.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 07 Aug 2023 13:47:00 +0200</lastBuildDate><atom:link href="https://jessekhala.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2023 17:48:19 +0200</lastBuildDate><atom:link href="https://jessekhala.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎚️ From React to Next.js Why I Made the Switch What I Learned</title>
+      <link>https://jessekhala.com/posts/from-react-to-nextjs-why-i-made-the-switch-what-i-learned/</link>
+      <pubDate>Sat, 02 Sep 2023 17:48:19 +0200</pubDate>
+      
+      <guid>https://jessekhala.com/posts/from-react-to-nextjs-why-i-made-the-switch-what-i-learned/</guid>
+      <description>Note: AI assistance was employed in crafting and refining the article.
+ Switching Lanes: From React to Next.js In the competitive landscape of web development and digital marketing, the frameworks you choose can be your secret weapon for success. Originally captivated by React&amp;rsquo;s flexibility and robust community, I&amp;rsquo;ve recently transitioned to Next.js.
+In this article, I&amp;rsquo;ll unpack the strategic and technical reasons behind the move, look at some advantages of Next.</description>
+    </item>
+    
     <item>
       <title>🆙 I&#39;m React State, Lift Me Up, Asshole</title>
       <link>https://jessekhala.com/posts/im-react-state-lift-me-up-asshole/</link>
