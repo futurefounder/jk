@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>🧑🏾‍💼 React Job Simulator: My First Impressions | Jesse Khala I Web Development I Marketing</title>
+<meta name="keywords" content="web development" />
+<meta name="description" content="Note: AI assistance was employed in refining this article.
+  This summer, I&rsquo;ve decided to go from treating coding as a hobby to turning it into a profession. Let me explain. Over the last 2 years, I&rsquo;ve been learning to code for mainly two reasons.
+ Personal Growth Save money on my entrepreneurial projects  I&rsquo;ve done a lot of reflection on what I enjoy and in which direction I want to move towards both personally and professionally.">
+<meta name="author" content="">
+<link rel="canonical" href="https://jessekhala.com/posts/react-job-simulator-my-first-impressions/" />
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.6c4e07499009affc3cdc8fc0f91b06900db112d0cd6e65b5c63c659051865f32.css" integrity="sha256-bE4HSZAJr/w83I/A&#43;RsGkA2xEtDNbmW1xjxlkFGGXzI=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.4dcb3c4f38462f66c6b6137227726f5543cb934cca9788f041c087e374491df2.js" integrity="sha256-Tcs8TzhGL2bGthNyJ3JvVUPLk0zKl4jwQcCH43RJHfI="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://i.ibb.co/qRfGHnn/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://i.ibb.co/yggS38R/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://i.ibb.co/P9n9GX4/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://jessekhala.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://jessekhala.com/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<meta name="generator" content="Hugo 0.93.3" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.birds.min.js"></script>
+<script type="text/javascript">
+  window.addEventListener("DOMContentLoaded", () => {
+    VANTA.BIRDS({
+      el: "#vantajs",
+      mouseControls: true,
+      touchControls: true,
+      gyroControls: false,
+      minHeight: 200.0,
+      minWidth: 200.0,
+      scale: 1.0,
+      scaleMobile: 1.0,
+      color1: 0xf27070,
+      color2: 0xbe61f0,
+      birdSize: 1.8,
+      wingSpan: 40.0,
+      speedLimit: 3.0,
+      separation: 21.0,
+      alignment: 21.0,
+      cohesion: 32.0,
+      quantity: 1.0,
+      backgroundAlpha: 0.0,
+    });
+  });
+</script>
+<script
+  async
+  defer
+  data-domain="jessekhala.com"
+  src="https://plausible.io/js/plausible.js"
+></script>
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script src="https://unpkg.com/@botpoison/browser" async></script>
+<meta
+  name="google-site-verification"
+  content="2Gprz7qje9is31jCdOIbFpdsBnId3rCUsgvnTexyF10"
+/><meta property="og:title" content="🧑🏾‍💼 React Job Simulator: My First Impressions" />
+<meta property="og:description" content="Note: AI assistance was employed in refining this article.
+  This summer, I&rsquo;ve decided to go from treating coding as a hobby to turning it into a profession. Let me explain. Over the last 2 years, I&rsquo;ve been learning to code for mainly two reasons.
+ Personal Growth Save money on my entrepreneurial projects  I&rsquo;ve done a lot of reflection on what I enjoy and in which direction I want to move towards both personally and professionally." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://jessekhala.com/posts/react-job-simulator-my-first-impressions/" /><meta property="og:image" content="https://jessekhala.com/papermod-cover.png"/><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-09-09T12:36:39&#43;02:00" />
+<meta property="article:modified_time" content="2023-09-09T12:36:39&#43;02:00" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://jessekhala.com/papermod-cover.png"/>
+
+<meta name="twitter:title" content="🧑🏾‍💼 React Job Simulator: My First Impressions"/>
+<meta name="twitter:description" content="Note: AI assistance was employed in refining this article.
+  This summer, I&rsquo;ve decided to go from treating coding as a hobby to turning it into a profession. Let me explain. Over the last 2 years, I&rsquo;ve been learning to code for mainly two reasons.
+ Personal Growth Save money on my entrepreneurial projects  I&rsquo;ve done a lot of reflection on what I enjoy and in which direction I want to move towards both personally and professionally."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://jessekhala.com/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "🧑🏾‍💼 React Job Simulator: My First Impressions",
+      "item": "https://jessekhala.com/posts/react-job-simulator-my-first-impressions/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "🧑🏾‍💼 React Job Simulator: My First Impressions",
+  "name": "🧑🏾‍💼 React Job Simulator: My First Impressions",
+  "description": "Note: AI assistance was employed in refining this article.\n  This summer, I\u0026rsquo;ve decided to go from treating coding as a hobby to turning it into a profession. Let me explain. Over the last 2 years, I\u0026rsquo;ve been learning to code for mainly two reasons.\n Personal Growth Save money on my entrepreneurial projects  I\u0026rsquo;ve done a lot of reflection on what I enjoy and in which direction I want to move towards both personally and professionally.",
+  "keywords": [
+    "web development"
+  ],
+  "articleBody": " Note: AI assistance was employed in refining this article.\n  This summer, I’ve decided to go from treating coding as a hobby to turning it into a profession. Let me explain. Over the last 2 years, I’ve been learning to code for mainly two reasons.\n Personal Growth Save money on my entrepreneurial projects  I’ve done a lot of reflection on what I enjoy and in which direction I want to move towards both personally and professionally. During these reflections, I have noticed, that I am going back to where I was once headed towards.\nBack to the roots Over time, I have started to enjoy coding and working on building things. I also started to remember, what I wanted to do when I got out of “high school” (“Gymnasium” in Germany). At the time I loved dealing with computers, I was actually in charge of our school year’s homepage, which I created with a Joomla! template and uploading stuff via FTP to a server. I started studying business information systems but ended up quitting due to many things going on in my life at the time. I then decided to get into marketing but always had a focus on digital marketing and tech-related topics.\nNow 20 years later I have realized I want to step back on the tech route and to accomplish this I am currently enrolled in the “React Job Simulator” Program.\nWhat is the “React Job Simulator” The React Job Simulator is a program with a focus on making developers “job ready” by learning things that are not typically covered in coding bootcamps like\n Learning professional Git workflows Working on a production-grade codebase Writing automated tests  This means I will have the opportunity to learn what it would be like to work in a professional environment\nOnboarding After reading through the onboarding docs I got a Kanban board with tasks to familiarize myself with the codebase. The first set of tasks was focused on getting me acquainted with the existing codebase. My initial to-dos included understanding the TypeScript \u0026 CSS architecture by fixing some styling errors and fixing bugs caused by interactive elements. I also had to get my hands dirty with Cypress testing.\nGit Workflow Navigating the Git workflow in a professional setting opens my eyes to new practices. One of the first things I learned is the critical role of passing CI/CD tests before even considering merging code. These automated tests ensure that my contributions don’t disrupt existing functionality and align with the project’s coding standards.\nAnother fascinating layer is the use of an AI reviewer, which offers instant feedback on code quality, and potential bugs, and even suggests best practices. This AI-powered insight feels like having a mentor review my code in real-time.\nFinally, I was introduced to the concept of squashing PRs. Instead of a cluttered commit history, squashing allows for a cleaner, more understandable log by combining multiple commits into one. This not only keeps the project history neat but also simplifies the process of identifying and understanding changes in the codebase. All these elements combine to give me a comprehensive understanding of what a mature, professional Git workflow entails.\nNavigating the Testing Maze with Cypress When I first dived into setting up Cypress for testing, I encountered several roadblocks. The initial setup didn’t go as smoothly as I had hoped, prompting me to delve into the documentation and sift through GitHub Issues for solutions. I even joined the Cypress Discord community, where I found an active community. After some dedicated troubleshooting, I managed to resolve my issues and kick-started my testing journey. 🎉\nAs I ran my first tests, I quickly learned about the capabilities and limitations of Cypress. One specific challenge I faced was testing a feature that opened an OS-level application, like an email client. Cypress, being a browser-based testing tool, had its limitations when it came to interacting with the operating system. This experience taught me the importance of understanding the tool I was working with but also gave me a sense of accomplishment as I navigated through these initial challenges. Overall, my early experiences with Cypress offered an initial balanced view of its strengths and areas where it might not be the perfect fit.\nWrapping Up My First Week with React Job Simulator My first week in the React Job Simulator program was a whirlwind of learning, challenges, and growth. From revisiting my tech roots and aligning my career path to diving deep into professional Git workflows, I gained invaluable insights into what it’s like to work in a real-world development environment.\nMy onboarding tasks, which included diving into CSS, TypeScript, and Cypress, were both enlightening and challenging. While I faced some initial hurdles, especially in setting up Cypress for testing, the resources and community around me helped me overcome them.\nI learned not just the technical aspects but also the nuances of working in a team, adhering to coding standards, and navigating complex workflows. It’s been an eye-opening experience, and I’m eager to see where this journey takes me next.\nCredit Photo by Mick Haupt on Pixabay\n",
+  "wordCount" : "850",
+  "inLanguage": "en",
+  "datePublished": "2023-09-09T12:36:39+02:00",
+  "dateModified": "2023-09-09T12:36:39+02:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://jessekhala.com/posts/react-job-simulator-my-first-impressions/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Jesse Khala I Web Development I Marketing",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://i.ibb.co/qRfGHnn/favicon-96x96.png"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+<noscript>
+    <style type="text/css">
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: #1d1e20;
+                --entry: #2e2e33;
+                --primary: rgba(255, 255, 255, 0.84);
+                --secondary: rgba(255, 255, 255, 0.56);
+                --tertiary: rgba(255, 255, 255, 0.16);
+                --content: rgba(255, 255, 255, 0.74);
+                --hljs-bg: #2e2e33;
+                --code-bg: #37383e;
+                --border: #333;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            
+           <a href="/">👨🏾‍💻 Jesse Khala</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle-svg" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu" onscroll="menu_on_scroll()">
+            <li>
+                 
+                <a href="https://jessekhala.com/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                 
+                <a href="https://jessekhala.com/sports/" title="Sports">
+                    <span>Sports</span>
+                </a>
+            </li>
+            <li>
+                 
+                <a href="https://jessekhala.com/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                 
+                <a href="https://jessekhala.com/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+            <li>
+                 
+                <a href="https://jessekhala.com/archives/" title="Archive">
+                    <span>Archive</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      🧑🏾‍💼 React Job Simulator: My First Impressions
+    </h1>
+    <div class="post-meta">September 9, 2023
+</div>
+    <ul class="post-tags">
+      <br />
+      <li><a href="https://jessekhala.com/tags/web-development/">web development</a></li>
+    </ul>
+  </header> <div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <div class="details">Table of Contents</div>
+        </summary>
+        <div class="inner"><ul>
+                <li>
+                    <a href="#back-to-the-roots" aria-label="Back to the roots">Back to the roots</a></li>
+                <li>
+                    <a href="#what-is-the-react-job-simulator" aria-label="What is the &amp;ldquo;React Job Simulator&amp;rdquo;">What is the &ldquo;React Job Simulator&rdquo;</a></li>
+                <li>
+                    <a href="#onboarding" aria-label="Onboarding">Onboarding</a></li>
+                <li>
+                    <a href="#git-workflow" aria-label="Git Workflow">Git Workflow</a></li>
+                <li>
+                    <a href="#navigating-the-testing-maze-with-cypress" aria-label="Navigating the Testing Maze with Cypress">Navigating the Testing Maze with Cypress</a></li>
+                <li>
+                    <a href="#wrapping-up-my-first-week-with-react-job-simulator" aria-label="Wrapping Up My First Week with React Job Simulator">Wrapping Up My First Week with React Job Simulator</a></li>
+                <li>
+                    <a href="#credit" aria-label="Credit">Credit</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><blockquote>
+<p><em>Note</em>: AI assistance was employed in refining this article.</p>
+</blockquote>
+<hr>
+<p><img loading="lazy" src="/path.webp" alt="Path"  />
+</p>
+<p>This summer, I&rsquo;ve decided to go from treating coding as a hobby to turning it into a profession. Let me explain. Over the last 2 years, I&rsquo;ve been learning to code for mainly two reasons.</p>
+<ol>
+<li>Personal Growth</li>
+<li>Save money on my entrepreneurial projects</li>
+</ol>
+<p>I&rsquo;ve done a lot of reflection on what I enjoy and in which direction I want to move towards both personally and professionally. During these reflections, I have noticed, that I am going back to where I was once headed towards.</p>
+<h1 id="back-to-the-roots">Back to the roots<a hidden class="anchor" aria-hidden="true" href="#back-to-the-roots">#</a></h1>
+<p>Over time, I have started to enjoy coding and working on building things. I also started to remember, what I wanted to do when I got out of &ldquo;high school&rdquo; (&ldquo;Gymnasium&rdquo; in Germany). At the time I loved dealing with computers, I was actually in charge of our school year&rsquo;s homepage, which I created with a Joomla! template and uploading stuff via FTP to a server. I started studying business information systems but ended up quitting due to many things going on in my life at the time.
+I then decided to get into marketing but always had a focus on digital marketing and tech-related topics.</p>
+<p>Now 20 years later I have realized I want to step back on the tech route and to accomplish this I am currently enrolled in the &ldquo;React Job Simulator&rdquo; Program.</p>
+<h1 id="what-is-the-react-job-simulator">What is the &ldquo;React Job Simulator&rdquo;<a hidden class="anchor" aria-hidden="true" href="#what-is-the-react-job-simulator">#</a></h1>
+<p>The React Job Simulator is a program with a focus on making developers &ldquo;job ready&rdquo; by learning things that are not typically covered in coding bootcamps like</p>
+<ul>
+<li>Learning professional Git workflows</li>
+<li>Working on a production-grade codebase</li>
+<li>Writing automated tests</li>
+</ul>
+<p>This means I will have the opportunity to learn what it would be like to work in a professional environment</p>
+<h1 id="onboarding">Onboarding<a hidden class="anchor" aria-hidden="true" href="#onboarding">#</a></h1>
+<p>After reading through the onboarding docs I got a Kanban board with tasks to familiarize myself with the codebase.
+The first set of tasks was focused on getting me acquainted with the existing codebase. My initial to-dos included understanding the TypeScript &amp; CSS architecture by fixing some styling errors and fixing bugs caused by interactive elements. I also had to get my hands dirty with Cypress testing.</p>
+<h1 id="git-workflow">Git Workflow<a hidden class="anchor" aria-hidden="true" href="#git-workflow">#</a></h1>
+<p>Navigating the Git workflow in a professional setting opens my eyes to new practices. One of the first things I learned is the critical role of passing CI/CD tests before even considering merging code. These automated tests ensure that my contributions don&rsquo;t disrupt existing functionality and align with the project&rsquo;s coding standards.</p>
+<p>Another fascinating layer is the use of an AI reviewer, which offers instant feedback on code quality, and potential bugs, and even suggests best practices. This AI-powered insight feels like having a mentor review my code in real-time.</p>
+<p>Finally, I was introduced to the concept of squashing PRs. Instead of a cluttered commit history, squashing allows for a cleaner, more understandable log by combining multiple commits into one. This not only keeps the project history neat but also simplifies the process of identifying and understanding changes in the codebase. All these elements combine to give me a comprehensive understanding of what a mature, professional Git workflow entails.</p>
+<h1 id="navigating-the-testing-maze-with-cypress">Navigating the Testing Maze with Cypress<a hidden class="anchor" aria-hidden="true" href="#navigating-the-testing-maze-with-cypress">#</a></h1>
+<p>When I first dived into setting up Cypress for testing, I encountered several roadblocks. The initial setup didn&rsquo;t go as smoothly as I had hoped, prompting me to delve into the <a href="https://docs.cypress.io/guides/references/troubleshooting">documentation</a> and sift through <a href="https://github.com/cypress-io/cypress/issues">GitHub Issues</a> for solutions. I even joined the Cypress Discord community, where I found an active community. After some dedicated troubleshooting, I managed to resolve my issues and kick-started my testing journey. 🎉</p>
+<p>As I ran my first tests, I quickly learned about the capabilities and limitations of Cypress. One specific challenge I faced was testing a feature that opened an OS-level application, like an email client. Cypress, being a browser-based testing tool, had its limitations when it came to interacting with the operating system. This experience taught me the importance of understanding the tool I was working with but also gave me a sense of accomplishment as I navigated through these initial challenges. Overall, my early experiences with Cypress offered an initial balanced view of its strengths and areas where it might not be the perfect fit.</p>
+<h1 id="wrapping-up-my-first-week-with-react-job-simulator">Wrapping Up My First Week with React Job Simulator<a hidden class="anchor" aria-hidden="true" href="#wrapping-up-my-first-week-with-react-job-simulator">#</a></h1>
+<p>My first week in the React Job Simulator program was a whirlwind of learning, challenges, and growth. From revisiting my tech roots and aligning my career path to diving deep into professional Git workflows, I gained invaluable insights into what it&rsquo;s like to work in a real-world development environment.</p>
+<p>My onboarding tasks, which included diving into CSS, TypeScript, and Cypress, were both enlightening and challenging. While I faced some initial hurdles, especially in setting up Cypress for testing, the resources and community around me helped me overcome them.</p>
+<p>I learned not just the technical aspects but also the nuances of working in a team, adhering to coding standards, and navigating complex workflows. It&rsquo;s been an eye-opening experience, and I&rsquo;m eager to see where this journey takes me next.</p>
+<h1 id="credit">Credit<a hidden class="anchor" aria-hidden="true" href="#credit">#</a></h1>
+<p>Photo by <a href="https://www.pexels.com/photo/a-trail-in-the-forest-5586115/">Mick Haupt on Pixabay</a></p>
+
+</div>
+  <footer class="post-footer">
+<nav class="paginav">
+  <a class="next" href="https://jessekhala.com/posts/from-react-to-nextjs-why-i-made-the-switch-what-i-learned/">
+    <span class="title">Next Page »</span>
+    <br>
+    <span>🎚️ From React to Next.js Why I Made the Switch What I Learned</span>
+  </a>
+</nav>
+
+  </footer>
+</article>
+    </main>
+    <footer class="footer">
+    <span>&copy; 2023 <a href="https://jessekhala.com/">Jesse Khala I Web Development I Marketing</a></span> <br>
+    
+    <span>Powered by <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> & <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a> </span>
+    
+    <span>&middot;</span> 
+    <span> <a href="\imprint" rel="noopener" >Imprint</a></span>
+    
+    
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)">
+    <button class="top-link" id="top-link" type="button" accesskey="g">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+            <path d="M12 6H0l6-6z" />
+        </svg>
+    </button>
+</a>
+  </script> 
+          <script>
+            var typed = new Typed('#typed', {
+              stringsElement: '#typed-strings',
+              typeSpeed: 130
+            });
+          </script>
+
+<script>
+    window.onload = function () {
+        if (localStorage.getItem("menu-scroll-position")) {
+            document.getElementById('menu').scrollLeft = localStorage.getItem("menu-scroll-position");
+        }
+    }
+
+    function menu_on_scroll() {
+        localStorage.setItem("menu-scroll-position", document.getElementById('menu').scrollLeft);
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerText = 'copy';
+
+        function copyingDone() {
+            copybutton.innerText = 'copied!';
+            setTimeout(() => {
+                copybutton.innerText = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>
