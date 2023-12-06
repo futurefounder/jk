@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jessekhala.com/posts/my-journey-from-computer-exploration-to-freelance-webdev/</loc>
-  </url><url>
     <loc>https://jessekhala.com/</loc>
     <lastmod>2023-11-22T14:51:34+01:00</lastmod>
   </url><url>
@@ -314,5 +312,7 @@
     <loc>https://jessekhala.com/sports/</loc>
   </url><url>
     <loc>https://jessekhala.com/writing/</loc>
+  </url><url>
+    <loc>https://jessekhala.com/posts/my-journey-from-computer-exploration-to-freelance-webdev/</loc>
   </url>
 </urlset>
