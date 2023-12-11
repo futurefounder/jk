@@ -1194,9 +1194,8 @@ I wanted full flexibility with the least possible effort in the creation, as in 
       <guid>https://jessekhala.com/about/</guid>
       <description>Hi again ✌🏾
 After working for a decade in the advertising industry I decided to start an adventure.
-In 2021 I started a small company (which failed), and taught myself how to code along the way and now,
-I&amp;rsquo;m a Freelance Web Developer Currently, I am a contractor for a startup in the e-commerce field.
-Tech Stack and Approach My journey in web development is deeply rooted in the fundamentals: HTML, CSS, and JavaScript.</description>
+In 2021 I started a small company (which failed), and taught myself how to code along the way and now, I&amp;rsquo;m a Freelance Web Developer.
+Further Passions As a person wearing many hats, I work on projects to scratch my itches or explore various web development topics. I also started my own yoga classes over the summer of 2023 after having completed a yoga teacher training in india.</description>
     </item>
     
     
@@ -1223,17 +1222,6 @@ Ehrenbergstr. 16a
 E-Mail: mail @ jessekhala.de</description>
     </item>
     
-    <item>
-      <title>Projects</title>
-      <link>https://jessekhala.com/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jessekhala.com/projects/</guid>
-      <description>Welcome to the projects section! 👷🏾‍♂️
-As I hone my web development skills, my focus is squarely on mastering Next.js and React.js. Alongside this, I&amp;rsquo;m acquiring essential skills like Git and Testing, tailored to thrive in modern team environments. I&amp;rsquo;m excited about turning this learning journey into opportunities for meaningful collaboration!
-🌟 Work in progress    Project Tech Stack     Web Development Service for Small &amp;amp; Medium Sized Businesses - More TBA -   📚 Working through the React Job Simulator at Profy.</description>
-    </item>
-    
     
     <item>
       <title>Sports</title>
@@ -1247,6 +1235,18 @@ Because he never falls down.&amp;rdquo;
 — My Mom
 
 I&amp;rsquo;ve often gotten questions regarding my &amp;ldquo;sports background&amp;rdquo; which is why I will try to give a little overview in this section.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the projects section! 👷🏾‍♂️</title>
+      <link>https://jessekhala.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jessekhala.com/projects/</guid>
+      <description>Here a some projects I have created. My current go-to stack for web development is Next.js for development and Vercel for deployment.
+- TindasanaAI was an AI project, where I attempted to create an outline for Yoga classes with AI.
+- 9Friends is a landing page for Yoga classes that I have been teaching in the summer of 2023.
+- Recent Posts Button is a chrome extension that adds a button to LinkedIn that I missed and therefore made it</description>
     </item>
     
     <item>
