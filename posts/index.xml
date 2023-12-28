@@ -9,6 +9,7 @@
       <link>https://jessekhala.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Wed, 22 Nov 2023 14:51:34 +0100</lastBuildDate><atom:link href="https://jessekhala.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🌍 My Experience as a Team Leader in the 6-week Chingu Remote Programming Project</title>
@@ -17,7 +18,7 @@
       
       <guid>https://jessekhala.com/posts/web-development-project-remote-team-leadership-insights/</guid>
       <description>Note: AI assistance was employed in refining this article.
-  Chingu.io is an innovative remote programming project that brings developers together from around the world to work on real-life projects. In this unique learning environment, I had the opportunity to take on the role of a team leader and developer. This position not only challenged me but also offered a platform to work on my leadership and technical skills in a collaborative, virtual setting.</description>
+Chingu.io is an innovative remote programming project that brings developers together from around the world to work on real-life projects. In this unique learning environment, I had the opportunity to take on the role of a team leader and developer. This position not only challenged me but also offered a platform to work on my leadership and technical skills in a collaborative, virtual setting.</description>
     </item>
     
     <item>
@@ -27,8 +28,8 @@
       
       <guid>https://jessekhala.com/posts/react-job-simulator-my-first-impressions/</guid>
       <description>Note: AI assistance was employed in refining this article.
-  This summer, I&amp;rsquo;ve decided to go from treating coding as a hobby to turning it into a profession. Let me explain. Over the last 2 years, I&amp;rsquo;ve been learning to code for mainly two reasons.
- Personal Growth Save money on my entrepreneurial projects  I&amp;rsquo;ve done a lot of reflection on what I enjoy and in which direction I want to move towards both personally and professionally.</description>
+This summer, I&amp;rsquo;ve decided to go from treating coding as a hobby to turning it into a profession. Let me explain. Over the last 2 years, I&amp;rsquo;ve been learning to code for mainly two reasons.
+Personal Growth Save money on my entrepreneurial projects I&amp;rsquo;ve done a lot of reflection on what I enjoy and in which direction I want to move towards both personally and professionally.</description>
     </item>
     
     <item>
@@ -38,7 +39,7 @@
       
       <guid>https://jessekhala.com/posts/from-react-to-nextjs-why-i-made-the-switch-what-i-learned/</guid>
       <description>Note: AI assistance was employed in crafting and refining the article.
- Switching Lanes: From React to Next.js In the competitive landscape of web development and digital marketing, the frameworks you choose can be your secret weapon for success. Originally captivated by React&amp;rsquo;s flexibility and robust community, I&amp;rsquo;ve recently transitioned to Next.js.
+Switching Lanes: From React to Next.js In the competitive landscape of web development and digital marketing, the frameworks you choose can be your secret weapon for success. Originally captivated by React&amp;rsquo;s flexibility and robust community, I&amp;rsquo;ve recently transitioned to Next.js.
 In this article, I&amp;rsquo;ll unpack the strategic and technical reasons behind the move, look at some advantages of Next.</description>
     </item>
     
@@ -49,7 +50,7 @@ In this article, I&amp;rsquo;ll unpack the strategic and technical reasons behin
       
       <guid>https://jessekhala.com/posts/im-react-state-lift-me-up-asshole/</guid>
       <description>Note: AI assistance was employed in crafting the code snippets and refining this article. The inspiration came from the article: &amp;ldquo;I&amp;rsquo;m Comic Sans, Asshole&amp;rdquo;.
-  Stop it. I said: &amp;ldquo;STOP. IT!&amp;rdquo;. Stupid. You have been re-rendering your TindasanaAI React component for the gazillionth time and the items you are selecting are always lost along the way. Well, it&amp;rsquo;s time to lift me up, asshole. You don&amp;rsquo;t understand why? Well, let me baby-feed this for you.</description>
+Stop it. I said: &amp;ldquo;STOP. IT!&amp;rdquo;. Stupid. You have been re-rendering your TindasanaAI React component for the gazillionth time and the items you are selecting are always lost along the way. Well, it&amp;rsquo;s time to lift me up, asshole. You don&amp;rsquo;t understand why? Well, let me baby-feed this for you.</description>
     </item>
     
     <item>
@@ -69,7 +70,7 @@ In this article, I&amp;rsquo;ll unpack the strategic and technical reasons behin
       <guid>https://jessekhala.com/posts/archiving-a-project/</guid>
       <description>About 2 years ago I started remotenactive.com and the last weekend, I archived the project. The process of working on this project has made me realize what I learned during the ride.
 Here are unsorted things I learned
- Going through YCombinators’ startup school helped me structure my idea, but the real world had more unforeseen variables than expected Cheap website builders get pricey if you do not make enough money, I went from paying 19$/month to 29$/month, only to rebuild things on my own and pay 0$/month My tech journey: From carrd and airtable to making my landing page with HTML, CSS, JS, then going to Ghost with customizing the theme, and in the end archiving with Hugo and customizing a theme Doing Sales is super hard, automating lead generation with tools on social media is kinda cringy, but brought a little sale I don&amp;rsquo;t enjoy being in the digital spotlight and having to post on social media frequently Modern marketing is an online battle of optimized images and sneaky words Going viral is random Creating online content regularly is tough, very tough SEO Tools are fascinating, but some things are like a black box One of the most exciting parts of a project is rebuilding things nobody cares about (except yourself) Spammers, spammers and scammers everywhere Having any kind of business related social circle, be it digital or in real-life is essential Know when to move on  </description>
+Going through YCombinators’ startup school helped me structure my idea, but the real world had more unforeseen variables than expected Cheap website builders get pricey if you do not make enough money, I went from paying 19$/month to 29$/month, only to rebuild things on my own and pay 0$/month My tech journey: From carrd and airtable to making my landing page with HTML, CSS, JS, then going to Ghost with customizing the theme, and in the end archiving with Hugo and customizing a theme Doing Sales is super hard, automating lead generation with tools on social media is kinda cringy, but brought a little sale I don&amp;rsquo;t enjoy being in the digital spotlight and having to post on social media frequently Modern marketing is an online battle of optimized images and sneaky words Going viral is random Creating online content regularly is tough, very tough SEO Tools are fascinating, but some things are like a black box One of the most exciting parts of a project is rebuilding things nobody cares about (except yourself) Spammers, spammers and scammers everywhere Having any kind of business related social circle, be it digital or in real-life is essential Know when to move on </description>
     </item>
     
     <item>
@@ -79,7 +80,7 @@ Here are unsorted things I learned
       
       <guid>https://jessekhala.com/posts/vipassana-meditation-retreat-thailand/</guid>
       <description>🌱 This article is a unique experience written 100% by me
- The Other Side - A Buddhist Story
+The Other Side - A Buddhist Story
 One day a young Buddhist on his journey home came to the banks of a wide river.
 Staring hopelessly at the great obstacle in front of him, he pondered for hours on just how to cross such a wide barrier. Just as he was about to give up his pursuit to continue his journey he saw a great teacher on the other side of the river.</description>
     </item>
@@ -128,7 +129,7 @@ The Goal The goal of my extension was to add a new button to LinkedIn profile pa
       
       <guid>https://jessekhala.com/posts/password-generator-app/</guid>
       <description>I made this little Password Generator App
-Want to see me create more? Feel free to join me on   Linkedin</description>
+Want to see me create more? Feel free to join me on Linkedin </description>
     </item>
     
     <item>
@@ -152,7 +153,7 @@ But then came ReactJS.</description>
       <description>Have you embedded a youtube video via iframe in your Webflow site and suddenly your page speed is super slow? Especially on mobile?
 Worry no more, here’s how you can fix it.
 Setup Lets first look at the iframe you are embedding in Webflow
-&amp;lt;iframe  width=&amp;#34;768&amp;#34;  height=&amp;#34;396&amp;#34;  src=&amp;#34;https://www.youtube.com/embed/QYAwFBGb-5U&amp;#34;  rel=&amp;#34;0&amp;#34;  enablejsapi=&amp;#34;1&amp;#34;  frameborder=&amp;#34;0&amp;#34;  allow=&amp;#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&amp;#34; &amp;gt;&amp;lt;/iframe&amp;gt; Problem The problem with this code is, that the video content of the iframe is loaded directly with the whole page.</description>
+&amp;lt;iframe width=&amp;#34;768&amp;#34; height=&amp;#34;396&amp;#34; src=&amp;#34;https://www.youtube.com/embed/QYAwFBGb-5U&amp;#34; rel=&amp;#34;0&amp;#34; enablejsapi=&amp;#34;1&amp;#34; frameborder=&amp;#34;0&amp;#34; allow=&amp;#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&amp;#34; &amp;gt;&amp;lt;/iframe&amp;gt; Problem The problem with this code is, that the video content of the iframe is loaded directly with the whole page.</description>
     </item>
     
     <item>
@@ -273,7 +274,7 @@ In this article I am reflecting on my experience.
 Here&amp;rsquo;s what happened.
 Let&amp;rsquo;s start with:
 What is a digital detox? Digital detox is a trending topic that seems everywhere these days. The term &amp;ldquo;Digital Detox&amp;rdquo; means different things to different people and as a result, it is often misunderstood. From my experience it boils down to the following:
- Getting away from technology for a specific amount of time</description>
+Getting away from technology for a specific amount of time</description>
     </item>
     
     <item>
@@ -283,7 +284,7 @@ What is a digital detox? Digital detox is a trending topic that seems everywhere
       
       <guid>https://jessekhala.com/posts/full-stack-webdevelopment-month-2/</guid>
       <description>&amp;ldquo;You can learn anything&amp;rdquo; - Khan Academy
- What happened So I finished The Odin Projects Fundamentals and had fun creating a Rock, Paper, Scissors Game.
+What happened So I finished The Odin Projects Fundamentals and had fun creating a Rock, Paper, Scissors Game.
 I was really surprised at level of depth of the fundamentals course.
 Not only did I repeat HTML &amp;amp; CSS Basics, but I also dived into Git and already started with JavaScript.
 What I really liked is, that the program puts a heavy emphasis on the psychological aspect of learning.</description>
@@ -295,10 +296,9 @@ What I really liked is, that the program puts a heavy emphasis on the psychologi
       <pubDate>Thu, 24 Feb 2022 11:21:38 -0600</pubDate>
       
       <guid>https://jessekhala.com/posts/rumi-quote-on-change/</guid>
-      <description> “Yesterday I was clever so I wanted to change the world.
+      <description>“Yesterday I was clever so I wanted to change the world.
 Today I am wise so I am changing myself.”
-- Rumi
- </description>
+- Rumi</description>
     </item>
     
     <item>
@@ -311,7 +311,7 @@ Today I am wise so I am changing myself.”
 /ˈfreɪm.wɝːk/
 a supporting structure around which something can be built
 &amp;ndash; Definition by Cambridge Dictionary
- Ever since the advent of JavaScript in the mid-90’s, developers have been struggling to find a solution for creating reusable code that can be easily be implemented in different projects.
+Ever since the advent of JavaScript in the mid-90’s, developers have been struggling to find a solution for creating reusable code that can be easily be implemented in different projects.
 via GIPHY
 Originally, frameworks were meant to address this problem by providing developers with more control over how their applications would run.</description>
     </item>
@@ -339,7 +339,7 @@ The term &amp;lsquo;Web Development&amp;rsquo; is something your parents will un
       
       <guid>https://jessekhala.com/posts/changes-to-remotenactive/</guid>
       <description>After analyzing my startup and talking to friends and mentors I have decided to make the following changes to my remote team building websiet remotenactive.com.
- Set all content to free, no more paid or subscriber content Focus on content, not on the service anymore Goal: Create a online media company   For more real-life updates feel free to join me on twitter.</description>
+Set all content to free, no more paid or subscriber content Focus on content, not on the service anymore Goal: Create a online media company For more real-life updates feel free to join me on twitter.</description>
     </item>
     
     <item>
@@ -351,7 +351,7 @@ The term &amp;lsquo;Web Development&amp;rsquo; is something your parents will un
       <description>Rock Paper Scissors - Game I made a simple a simple rock papers scissors game of 5 rounds with a dynamic background and the option to play music.
 It&amp;rsquo;s a fun little project I made to learn JavaScript.
 You can play it here
- For more real-life updates feel free to join me on twitter.</description>
+For more real-life updates feel free to join me on twitter.</description>
     </item>
     
     <item>
@@ -384,7 +384,7 @@ I have been working heavy on SEO and creating content, in addition to doing Sale
       
       <guid>https://jessekhala.com/posts/validate-ideas/</guid>
       <description>&amp;quot;Validating&amp;quot; a business idea is like trying to validate a poker hand. It just doesn&amp;#39;t make any sense.
-&amp;mdash; Daniel Vassallo (@dvassallo) December 14, 2021  The concept of &amp;ldquo;validating a business idea&amp;rdquo; creates a false sense of security.
+&amp;mdash; Daniel Vassallo (@dvassallo) December 14, 2021 The concept of &amp;ldquo;validating a business idea&amp;rdquo; creates a false sense of security.
 The example by Daniel Vassallo shows this in several dimensions.
 In a game of poker, you can only make calculated guesses, based on probability, experience, and the attempt of analyzing your opponent.</description>
     </item>
@@ -489,7 +489,7 @@ Why am I actually doing this stuff?</description>
 There&amp;rsquo;s term and a whole discussion around people who only have business ideas, but never act on them:
 &amp;ldquo;Wannapreneur&amp;rdquo;
 While there are many different opinions on what differentiates a &amp;ldquo;Wannapreneur&amp;rdquo; from an Entrepreneur I think these 3 key aspects get you caught in the &amp;ldquo;Wannapreneur&amp;rdquo;-Cycle
- Thinking and talking about your idea/s without actually acting on them Consuming way too much Online Content ( Hi, GaryVee!</description>
+Thinking and talking about your idea/s without actually acting on them Consuming way too much Online Content ( Hi, GaryVee!</description>
     </item>
     
     <item>
@@ -516,7 +516,7 @@ I try not to overemphasize the numbers of this website, as the main goal is to k
 Nevertheless, here are some insights on the traffic.
 Time 01.05.21 - 21.08.21
 Overall Traffic Pages Interesting, that my longest piece of content is also the best-performing so far.
---- For more real-time updates feel free to join me on  Twitter  Linkedin</description>
+--- For more real-time updates feel free to join me on Twitter Linkedin </description>
     </item>
     
     <item>
@@ -581,9 +581,8 @@ Although I read about making a double switch not being recommendable I just went
       <pubDate>Mon, 05 Jul 2021 20:39:58 +0200</pubDate>
       
       <guid>https://jessekhala.com/posts/cal-newport-control/</guid>
-      <description>  “ Giving people more control over what they do and how they do it increases their happiness, engagement, and sense of fulfillment. ”
-—  Cal Newport 
- </description>
+      <description> “ Giving people more control over what they do and how they do it increases their happiness, engagement, and sense of fulfillment. ”
+— Cal Newport </description>
     </item>
     
     <item>
@@ -611,9 +610,9 @@ You want a good product.
 Yet, I have to launch early.
 And fast.
 Like really, really, really fast.
- &amp;ldquo;If You&amp;rsquo;re Not Embarrassed By The First Version Of Your Product, You’ve Launched Too Late&amp;rdquo;
+&amp;ldquo;If You&amp;rsquo;re Not Embarrassed By The First Version Of Your Product, You’ve Launched Too Late&amp;rdquo;
 — Reid Hoffman
- Fast means accepting imperfection.
+Fast means accepting imperfection.
 This is why I decided to soft-launch Remote &amp;rsquo;n Active - List on a Sub-Reddit yesterday.
 And talk to people from my target audience.
 And send it to a couple of friends.</description>
@@ -654,7 +653,7 @@ Here are the LinkedIn stats on my post about my learnings about attending the Y 
       <guid>https://jessekhala.com/posts/tracking-my-goals.de/</guid>
       <description>Ich habe die letzten 6 wochen in der Öffentlich gearbeitet und habe über meine bisherige Erfahrung nachgedacht.
 Ich bin zu folgenden Ergebnissen gekommen:
- Ich werde meine Ziele nur noch auf monatlicher, nicht wöchentlicher Basis veröffentlichen Ich werde alle weiteren Artikel auf dieser Seite auf english erstellen, Deutsch nur auf Nachfrage. Falls du etwas mal nicht verstehst, melde dich einfach bei mir  Dadurch erhöhe ich meine öffentliche Produktivität und vereinfache die Workflows, da die Übersetzungen doch viel Zeit in Anspruch nehmen</description>
+Ich werde meine Ziele nur noch auf monatlicher, nicht wöchentlicher Basis veröffentlichen Ich werde alle weiteren Artikel auf dieser Seite auf english erstellen, Deutsch nur auf Nachfrage. Falls du etwas mal nicht verstehst, melde dich einfach bei mir Dadurch erhöhe ich meine öffentliche Produktivität und vereinfache die Workflows, da die Übersetzungen doch viel Zeit in Anspruch nehmen</description>
     </item>
     
     <item>
@@ -665,7 +664,7 @@ Ich bin zu folgenden Ergebnissen gekommen:
       <guid>https://jessekhala.com/posts/tracking-my-goals/</guid>
       <description>I&amp;rsquo;ve been working out in public for nearly 6 weeks and have reflected on my learnings.
 Going on forward I will continue with these changes:
- Tracking my goals on a monthly, not weekly basis (weekly internally) Keeping my articles in english, german translation only on requests  This will improve my public productivity and help me improve content creation, as certain work flows took up more time than expected (e.</description>
+Tracking my goals on a monthly, not weekly basis (weekly internally) Keeping my articles in english, german translation only on requests This will improve my public productivity and help me improve content creation, as certain work flows took up more time than expected (e.g. translating idioms into german or vice versa).</description>
     </item>
     
     <item>
@@ -688,7 +687,7 @@ Sir Ken Robinson even goes so far to say that the current education culture is a
       <pubDate>Mon, 07 Jun 2021 16:10:31 +0200</pubDate>
       
       <guid>https://jessekhala.com/posts/weekly-goals-4/</guid>
-      <description>Business  15 Meaningful connections/Week  Tech/Development  Ship Blog Site  Marketing  Write 2 Long-Form LinkedIn Posts  </description>
+      <description>Business 15 Meaningful connections/Week Tech/Development Ship Blog Site Marketing Write 2 Long-Form LinkedIn Posts </description>
     </item>
     
     <item>
@@ -697,7 +696,7 @@ Sir Ken Robinson even goes so far to say that the current education culture is a
       <pubDate>Mon, 07 Jun 2021 16:10:31 +0200</pubDate>
       
       <guid>https://jessekhala.com/posts/weekly-goals-4.de/</guid>
-      <description>Business  15 sinnvolle connections/Woche  Tech/Development  Blog Site live stellen  Marketing  Schreiben von 2 längeren LinkedIn Posts  </description>
+      <description>Business 15 sinnvolle connections/Woche Tech/Development Blog Site live stellen Marketing Schreiben von 2 längeren LinkedIn Posts </description>
     </item>
     
     <item>
@@ -710,9 +709,9 @@ Sir Ken Robinson even goes so far to say that the current education culture is a
 Feedback regarding my goals #3
 Summary
 👍🏾 The Good
- Started Search Ads Campaign and getting traction on Website Got my first cold prospect call Starting migrating the airtable list to a web-service  👎🏾 The Bad
- Did not get the blog live  👉🏾 What&amp;rsquo;s Next
- Get Blog Live Work on web-service  </description>
+Started Search Ads Campaign and getting traction on Website Got my first cold prospect call Starting migrating the airtable list to a web-service 👎🏾 The Bad
+Did not get the blog live 👉🏾 What&amp;rsquo;s Next
+Get Blog Live Work on web-service </description>
     </item>
     
     <item>
@@ -725,9 +724,9 @@ Summary
 Feedback zu Wöchentliche Ziele #3
 Zusammenfassung
 👍🏾 Das Gute
- Kampagne für Suchanzeigen gestartet und auf der Website mehr Traffic bekommen Habe meinen erste &amp;ldquo;kalte&amp;rdquo; Anfrage bekommen Beginn der Migration der Airtable-Liste zu einem Web-Service  👎🏾 Das Schlechte
- Habe den Blog nicht live bekommen  👉🏾 Wie geht es weiter
- Blog-Live stellen Arbeit am Web-Service  </description>
+Kampagne für Suchanzeigen gestartet und auf der Website mehr Traffic bekommen Habe meinen erste &amp;ldquo;kalte&amp;rdquo; Anfrage bekommen Beginn der Migration der Airtable-Liste zu einem Web-Service 👎🏾 Das Schlechte
+Habe den Blog nicht live bekommen 👉🏾 Wie geht es weiter
+Blog-Live stellen Arbeit am Web-Service </description>
     </item>
     
     <item>
@@ -736,7 +735,7 @@ Zusammenfassung
       <pubDate>Tue, 01 Jun 2021 12:50:26 +0200</pubDate>
       
       <guid>https://jessekhala.com/posts/japanese-city-pop.de/</guid>
-      <description>Music Vibe   </description>
+      <description>Music Vibe </description>
     </item>
     
     <item>
@@ -745,7 +744,7 @@ Zusammenfassung
       <pubDate>Tue, 01 Jun 2021 12:50:26 +0200</pubDate>
       
       <guid>https://jessekhala.com/posts/japanese-city-pop/</guid>
-      <description>Music Vibe   </description>
+      <description>Music Vibe </description>
     </item>
     
     <item>
@@ -754,7 +753,7 @@ Zusammenfassung
       <pubDate>Mon, 31 May 2021 09:23:44 +0200</pubDate>
       
       <guid>https://jessekhala.com/posts/weekly-goals-3/</guid>
-      <description>Business  15 Meaningful connections/Week  Tech/Development  Ship Blog Site  Marketing  Start Search Ads Campaign  </description>
+      <description>Business 15 Meaningful connections/Week Tech/Development Ship Blog Site Marketing Start Search Ads Campaign </description>
     </item>
     
     <item>
@@ -763,7 +762,7 @@ Zusammenfassung
       <pubDate>Mon, 31 May 2021 09:23:44 +0200</pubDate>
       
       <guid>https://jessekhala.com/posts/weekly-goals-3.de/</guid>
-      <description>Business  15 sinnvolle connections/Woche  Tech/Development  Blog Seite Live stellen  Marketing  Start Search Ads Kampagne  </description>
+      <description>Business 15 sinnvolle connections/Woche Tech/Development Blog Seite Live stellen Marketing Start Search Ads Kampagne </description>
     </item>
     
     <item>
@@ -804,7 +803,7 @@ Die meisten Ziele erreicht, aber gemerkt, dass ich meine Verkaufsstrategie anpas
 ✔️ Keyword Recherche
 ✔️ Definition von 2 - 3 Keyword-Segmenten
 ✔️ Erstelle 1 Blog Post mit AI
- LinkedIn wird immer relevanter, erste Beiträge bekommen hohe Reichweiten  👎🏾 Das Schlechte</description>
+LinkedIn wird immer relevanter, erste Beiträge bekommen hohe Reichweiten 👎🏾 Das Schlechte</description>
     </item>
     
     <item>
@@ -868,8 +867,8 @@ Nachdem ich mit einem anderen Gründer gesprochen hatte, bemerkte ich, dass mein
       <description>What happened last week - 17.05 - 21.05.2021
 Feedback regarding my goals #1
 The good
- Got the remotenactive translated English website up and running Wrote 5 Cold-Messages via LinkedIn Sales Navigator One Phone Call with a prospect Let my LinkedIn Network know about my new career, reaction very positive  The bad
- Did not reach the goals of 15 cold messages, 2 Case Studies Reasons: translation of website took me longer than expected, LinkedIn Cold Messaging Research on how to adress the audience took me longer than expected LinkedIn Sales Cold Messages not successful so far  What&amp;rsquo;s Next</description>
+Got the remotenactive translated English website up and running Wrote 5 Cold-Messages via LinkedIn Sales Navigator One Phone Call with a prospect Let my LinkedIn Network know about my new career, reaction very positive The bad
+Did not reach the goals of 15 cold messages, 2 Case Studies Reasons: translation of website took me longer than expected, LinkedIn Cold Messaging Research on how to adress the audience took me longer than expected LinkedIn Sales Cold Messages not successful so far What&amp;rsquo;s Next</description>
     </item>
     
     <item>
@@ -881,8 +880,8 @@ The good
       <description>Was letzte Woche passiert ist - 17.05 - 21.05.2021
 Feedback zu meinen wöchentlichen Zielen Nr. 1
 Das Gute
- Die remotenactive übersetzte englische Website ist live Ich habe 5 Cold-Messages über LinkedIn Sales Navigator verschickt Ein Telefonat mit einem potentiellen Kunden Ich habe mein LinkedIn-Netzwerk über meinen neuen Karriereschritt informiert, die Reaktion ist sehr positiv  Das Schlechte
- Ich habe die Ziele von 15 Cold-Messages, 2 Fallstudien, nicht erreicht Grund: Die Übersetzung der Website hat länger gedauert, als erwartet, Die Recherche zu LinkedIn Cold Messaging, wie ich meine Zielgruppe besser ansprechen kann, hat länger gedauert, als erwartet Bisherige LinkedIn Sales Cold Messages nicht erfolgreich  Was kommt als Nächstes</description>
+Die remotenactive übersetzte englische Website ist live Ich habe 5 Cold-Messages über LinkedIn Sales Navigator verschickt Ein Telefonat mit einem potentiellen Kunden Ich habe mein LinkedIn-Netzwerk über meinen neuen Karriereschritt informiert, die Reaktion ist sehr positiv Das Schlechte
+Ich habe die Ziele von 15 Cold-Messages, 2 Fallstudien, nicht erreicht Grund: Die Übersetzung der Website hat länger gedauert, als erwartet, Die Recherche zu LinkedIn Cold Messaging, wie ich meine Zielgruppe besser ansprechen kann, hat länger gedauert, als erwartet Bisherige LinkedIn Sales Cold Messages nicht erfolgreich Was kommt als Nächstes</description>
     </item>
     
     <item>
@@ -961,7 +960,7 @@ I have set overall business goals, but noticed I have to get a stronger focus.
 That is why I am setting weekly goals.
 These are not all To Do&amp;rsquo;s but rather the most important this I am working towards on a weekly basis.
 Business
- Sales: Digital outreach to at least 15 new prospects Get 2 Case Studies Talk to at least 2 prospects  Website remotenactive.</description>
+Sales: Digital outreach to at least 15 new prospects Get 2 Case Studies Talk to at least 2 prospects Website remotenactive.</description>
     </item>
     
     <item>
@@ -975,7 +974,7 @@ Ich habe allgemeine Geschäftsziele festgelegt, aber festgestellt, dass ich mich
 Deshalb setze ich mir wöchentliche Ziele.
 Dies sind nicht alles Aufgaben die Anliegen, sondern die wichtigsten Ziele, auf die ich wöchentlich hinarbeite.
 Unternehmen
- Vertrieb: Digitale Kontaktaufnahme mit mindestens 15 neuen Interessenten 2 Case Studies erarbeiten Mit mindestens 2 Interessenten sprechen  Website remotenactive.</description>
+Vertrieb: Digitale Kontaktaufnahme mit mindestens 15 neuen Interessenten 2 Case Studies erarbeiten Mit mindestens 2 Interessenten sprechen Website remotenactive.com</description>
     </item>
     
     <item>
@@ -987,8 +986,8 @@ Unternehmen
       <description>What happened last week - 10.05 - 14.05.2021
 The good
 RemoteNActive
- I got the German Website live and running Discovered various ways to optimize site speed via  Image size optimization Delaying iframe output via jQuery/Javascript    Code to delay iframe (including OnClick Confetti, because&amp;hellip; Confetti ;)
-&amp;lt;script type=&amp;#34;text/javascript&amp;#34; src=&amp;#34;https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt;  &amp;lt;script type=&amp;#34;text/javascript&amp;#34;&amp;gt;  $(function(){  $(&amp;#39;#buttonframe&amp;#39;).click(function(){  if(!$(&amp;#39;#iframe&amp;#39;).length) {  $(&amp;#39;#iframeHolder&amp;#39;).html(&amp;#39;&amp;lt;iframe src=&amp;#34;URL-to-canvas-here&amp;#34;&amp;gt; &amp;lt;/iframe&amp;gt;&amp;#39;);  }  function randomInRange(min, max) {  return Math.</description>
+I got the German Website live and running Discovered various ways to optimize site speed via Image size optimization Delaying iframe output via jQuery/Javascript Code to delay iframe (including OnClick Confetti, because&amp;hellip; Confetti ;)
+&amp;lt;script type=&amp;#34;text/javascript&amp;#34; src=&amp;#34;https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script type=&amp;#34;text/javascript&amp;#34;&amp;gt; $(function(){ $(&amp;#39;#buttonframe&amp;#39;).click(function(){ if(!$(&amp;#39;#iframe&amp;#39;).length) { $(&amp;#39;#iframeHolder&amp;#39;).html(&amp;#39;&amp;lt;iframe src=&amp;#34;URL-to-canvas-here&amp;#34;&amp;gt; &amp;lt;/iframe&amp;gt;&amp;#39;); } function randomInRange(min, max) { return Math.random() * (max - min) + min; } confetti({ angle: randomInRange(55, 125), spread: randomInRange(50, 70), particleCount: randomInRange(50, 100), origin: { y: 0.</description>
     </item>
     
     <item>
@@ -1000,8 +999,8 @@ RemoteNActive
       <description>Was letzte Woche passiert ist - 10.05 - 14.05.2021
 Das Gute
 RemoteNActive
- Ich habe die deutsche Website live und zum laufen bekommen Ich habe verschiedene Möglichkeiten zur Optimierung der Website-Geschwindigkeit erarbeitet  Optimierung der Bildgröße Verzögerung der Iframe-Auslieferung über jQuery / Javascript    Code zum Verzögern des Iframes (einschließlich OnClick Confetti, weil &amp;hellip; Confetti;)
-&amp;lt;script type=&amp;#34;text/javascript&amp;#34; src=&amp;#34;https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt;  &amp;lt;script type=&amp;#34;text/javascript&amp;#34;&amp;gt;  $(function(){  $(&amp;#39;#buttonframe&amp;#39;).click(function(){  if(!$(&amp;#39;#iframe&amp;#39;).length) {  $(&amp;#39;#iframeHolder&amp;#39;).</description>
+Ich habe die deutsche Website live und zum laufen bekommen Ich habe verschiedene Möglichkeiten zur Optimierung der Website-Geschwindigkeit erarbeitet Optimierung der Bildgröße Verzögerung der Iframe-Auslieferung über jQuery / Javascript Code zum Verzögern des Iframes (einschließlich OnClick Confetti, weil &amp;hellip; Confetti;)
+&amp;lt;script type=&amp;#34;text/javascript&amp;#34; src=&amp;#34;https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script type=&amp;#34;text/javascript&amp;#34;&amp;gt; $(function(){ $(&amp;#39;#buttonframe&amp;#39;).click(function(){ if(!$(&amp;#39;#iframe&amp;#39;).length) { $(&amp;#39;#iframeHolder&amp;#39;).html(&amp;#39;&amp;lt;iframe src=&amp;#34;URL-to-canvas-here&amp;#34;&amp;gt; &amp;lt;/iframe&amp;gt;&amp;#39;); } function randomInRange(min, max) { return Math.</description>
     </item>
     
     <item>
@@ -1185,8 +1184,8 @@ I wanted full flexibility with the least possible effort in the creation, as in 
       <guid>https://jessekhala.com/posts/my-journey-from-computer-exploration-to-freelance-webdev/</guid>
       <description>TL;DR: My journey from a teenager fascinated by computers to a career in marketing, pivoting to my current path as a freelance web developer.
 Note: I generated and refined the text with AI and created the UI inspired by ChatGPT.
- Start the journey by generating each chapter.
-   Generate introduction...      Generate image for first chapter      Generate first chapter.</description>
+Start the journey by generating each chapter.
+Generate introduction... Generate image for first chapter Generate first chapter... Generate image for chapter Teen Projects Generate chapter Teen Projects... Generate image for the chapter Challenges.</description>
     </item>
     
   </channel>

@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jessekhala.com/posts/web-development-project-remote-team-leadership-insights/</loc>
+    <lastmod>2023-11-22T14:51:34+01:00</lastmod>
+  </url><url>
     <loc>https://jessekhala.com/</loc>
     <lastmod>2023-11-22T14:51:34+01:00</lastmod>
   </url><url>
@@ -12,9 +15,6 @@
     <lastmod>2023-11-22T14:51:34+01:00</lastmod>
   </url><url>
     <loc>https://jessekhala.com/tags/web-development/</loc>
-    <lastmod>2023-11-22T14:51:34+01:00</lastmod>
-  </url><url>
-    <loc>https://jessekhala.com/posts/web-development-project-remote-team-leadership-insights/</loc>
     <lastmod>2023-11-22T14:51:34+01:00</lastmod>
   </url><url>
     <loc>https://jessekhala.com/posts/react-job-simulator-my-first-impressions/</loc>
@@ -200,16 +200,16 @@
     <loc>https://jessekhala.com/posts/weekly-status-report-3.de/</loc>
     <lastmod>2021-05-29T11:02:12+02:00</lastmod>
   </url><url>
-    <loc>https://jessekhala.com/tags/entrepreneurship/</loc>
-    <lastmod>2021-05-24T17:20:44+02:00</lastmod>
-  </url><url>
-    <loc>https://jessekhala.com/tags/mindset/</loc>
-    <lastmod>2021-05-24T17:20:44+02:00</lastmod>
-  </url><url>
     <loc>https://jessekhala.com/posts/meaningful-connections/</loc>
     <lastmod>2021-05-24T17:20:44+02:00</lastmod>
   </url><url>
     <loc>https://jessekhala.com/posts/meaningful-connections.de/</loc>
+    <lastmod>2021-05-24T17:20:44+02:00</lastmod>
+  </url><url>
+    <loc>https://jessekhala.com/tags/entrepreneurship/</loc>
+    <lastmod>2021-05-24T17:20:44+02:00</lastmod>
+  </url><url>
+    <loc>https://jessekhala.com/tags/mindset/</loc>
     <lastmod>2021-05-24T17:20:44+02:00</lastmod>
   </url><url>
     <loc>https://jessekhala.com/posts/weekly-goals-2/</loc>
@@ -291,7 +291,8 @@
     <lastmod>2021-04-27T09:14:03+02:00</lastmod>
   </url><url>
     <loc>https://jessekhala.com/google1a3ab7d4808909c7/</loc>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://jessekhala.com/posts/my-journey-from-computer-exploration-to-freelance-webdev/</loc>
   </url><url>
     <loc>https://jessekhala.com/about/</loc>
   </url><url>
@@ -312,7 +313,5 @@
     <loc>https://jessekhala.com/projects/</loc>
   </url><url>
     <loc>https://jessekhala.com/writing/</loc>
-  </url><url>
-    <loc>https://jessekhala.com/posts/my-journey-from-computer-exploration-to-freelance-webdev/</loc>
   </url>
 </urlset>

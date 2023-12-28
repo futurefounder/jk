@@ -9,6 +9,7 @@
       <link>https://jessekhala.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Wed, 22 Nov 2023 14:51:34 +0100</lastBuildDate><atom:link href="https://jessekhala.com/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🌍 My Experience as a Team Leader in the 6-week Chingu Remote Programming Project</title>
@@ -17,7 +18,7 @@
       
       <guid>https://jessekhala.com/posts/web-development-project-remote-team-leadership-insights/</guid>
       <description>Note: AI assistance was employed in refining this article.
-  Chingu.io is an innovative remote programming project that brings developers together from around the world to work on real-life projects. In this unique learning environment, I had the opportunity to take on the role of a team leader and developer. This position not only challenged me but also offered a platform to work on my leadership and technical skills in a collaborative, virtual setting.</description>
+Chingu.io is an innovative remote programming project that brings developers together from around the world to work on real-life projects. In this unique learning environment, I had the opportunity to take on the role of a team leader and developer. This position not only challenged me but also offered a platform to work on my leadership and technical skills in a collaborative, virtual setting.</description>
     </item>
     
     <item>
@@ -27,8 +28,8 @@
       
       <guid>https://jessekhala.com/posts/react-job-simulator-my-first-impressions/</guid>
       <description>Note: AI assistance was employed in refining this article.
-  This summer, I&amp;rsquo;ve decided to go from treating coding as a hobby to turning it into a profession. Let me explain. Over the last 2 years, I&amp;rsquo;ve been learning to code for mainly two reasons.
- Personal Growth Save money on my entrepreneurial projects  I&amp;rsquo;ve done a lot of reflection on what I enjoy and in which direction I want to move towards both personally and professionally.</description>
+This summer, I&amp;rsquo;ve decided to go from treating coding as a hobby to turning it into a profession. Let me explain. Over the last 2 years, I&amp;rsquo;ve been learning to code for mainly two reasons.
+Personal Growth Save money on my entrepreneurial projects I&amp;rsquo;ve done a lot of reflection on what I enjoy and in which direction I want to move towards both personally and professionally.</description>
     </item>
     
     <item>
@@ -38,7 +39,7 @@
       
       <guid>https://jessekhala.com/posts/from-react-to-nextjs-why-i-made-the-switch-what-i-learned/</guid>
       <description>Note: AI assistance was employed in crafting and refining the article.
- Switching Lanes: From React to Next.js In the competitive landscape of web development and digital marketing, the frameworks you choose can be your secret weapon for success. Originally captivated by React&amp;rsquo;s flexibility and robust community, I&amp;rsquo;ve recently transitioned to Next.js.
+Switching Lanes: From React to Next.js In the competitive landscape of web development and digital marketing, the frameworks you choose can be your secret weapon for success. Originally captivated by React&amp;rsquo;s flexibility and robust community, I&amp;rsquo;ve recently transitioned to Next.js.
 In this article, I&amp;rsquo;ll unpack the strategic and technical reasons behind the move, look at some advantages of Next.</description>
     </item>
     
@@ -49,7 +50,7 @@ In this article, I&amp;rsquo;ll unpack the strategic and technical reasons behin
       
       <guid>https://jessekhala.com/posts/im-react-state-lift-me-up-asshole/</guid>
       <description>Note: AI assistance was employed in crafting the code snippets and refining this article. The inspiration came from the article: &amp;ldquo;I&amp;rsquo;m Comic Sans, Asshole&amp;rdquo;.
-  Stop it. I said: &amp;ldquo;STOP. IT!&amp;rdquo;. Stupid. You have been re-rendering your TindasanaAI React component for the gazillionth time and the items you are selecting are always lost along the way. Well, it&amp;rsquo;s time to lift me up, asshole. You don&amp;rsquo;t understand why? Well, let me baby-feed this for you.</description>
+Stop it. I said: &amp;ldquo;STOP. IT!&amp;rdquo;. Stupid. You have been re-rendering your TindasanaAI React component for the gazillionth time and the items you are selecting are always lost along the way. Well, it&amp;rsquo;s time to lift me up, asshole. You don&amp;rsquo;t understand why? Well, let me baby-feed this for you.</description>
     </item>
     
     <item>
